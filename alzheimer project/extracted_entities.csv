@@ -1,0 +1,1564 @@
+Start,End,Entity,Semantic,File Name
+34,53,alzheimer's disease,condition,NCT00000178
+33,61,probably alzheimer's disease,condition,NCT00141661
+66,81,at least 1 year,time,NCT00141661
+75,76,1,value,NCT00141661
+83,118,mini mental state exam (mmse) score,measurement,NCT00141661
+127,132,12-26,value,NCT00141661
+180,204,cholinesterase inhibitor,drug,NCT00141661
+212,221,memantine,drug,NCT00141661
+226,243,at least 4 months,time,NCT00141661
+235,236,4,value,NCT00141661
+270,287,at least 2 months,time,NCT00141661
+43,63,probable alzheimer's,condition,NCT00151502
+132,175,mini-mental status examination score (mmse),measurement,NCT00151502
+200,207,13 - 25,value,NCT00151502
+42,61,alzheimer's disease,condition,NCT00191009
+109,133,mini mental status score,measurement,NCT00191009
+142,151,10 and 26,value,NCT00191009
+182,191,caregiver,caregiver,NCT00191009
+195,220,frequent or daily contact,time,NCT00191009
+313,329,alzheimer's drug,drug,NCT00191009
+344,361,at least 3 months,time,NCT00191009
+20,44,diagnosis of probable ad,value,NCT00205179
+33,44,probable ad,condition,NCT00205179
+72,81,caregiver,caregiver,NCT00205179
+145,169,cholinesterase inhibitor,drug,NCT00205179
+154,158,male,demography,NCT00217763
+170,173,age,demography,NCT00217763
+174,192,50 years and older,value,NCT00217763
+195,304,female must be of non-childbearing potential (i.e. surgically sterilized or at least 2 years post-menopausal),condition,NCT00217763
+271,287,at least 2 years,time,NCT00217763
+319,339,probable alzheimer's,condition,NCT00217763
+526,534,dementia,condition,NCT00217763
+581,617,mini mental state examination (mmse),measurement,NCT00217763
+668,691,living in the community,demography,NCT00217763
+708,717,caregiver,caregiver,NCT00217763
+719,825,participant living in an assisted living facility may be included if study medication intake is supervised,demography,NCT00217763
+914,944,acetylcholinesterase inhibitor,drug,NCT00217763
+946,955,donepezil,drug,NCT00217763
+957,968,galantamine,drug,NCT00217763
+972,984,rivastigmine,drug,NCT00217763
+1017,1034,at least 4 months,time,NCT00217763
+1026,1027,4,value,NCT00217763
+1118,1132,not have taken,time,NCT00217763
+1133,1142,memantine,drug,NCT00217763
+1423,1443,legal representative,caregiver,NCT00217763
+59,87,moderate alzheimer's disease,condition,NCT00224497
+150,154,mmse,measurement,NCT00224497
+164,169,12-24,value,NCT00224497
+190,200,caregivers,caregiver,NCT00224497
+281,291,laboratory,measurement,NCT00224497
+74,99,mild cognitive impairment,condition,NCT00236431
+100,126,delayed recall score <= 10,value,NCT00236431
+132,173,new york university paragraph recall test,measurement,NCT00236431
+321,330,informant,caregiver,NCT00236431
+74,99,mild cognitive impairment,condition,NCT00236574
+100,145,delayed recall score less than or equal to 10,value,NCT00236574
+149,190,new york university paragraph recall test,measurement,NCT00236574
+339,348,informant,caregiver,NCT00236574
+22,30,dementia,condition,NCT00255086
+54,65,50-95 years,value,NCT00255086
+69,72,age,demography,NCT00255086
+87,91,mmse,measurement,NCT00255086
+115,119,7-28,value,NCT00255086
+131,132,4,value,NCT00255086
+160,169,caregiver,caregiver,NCT00255086
+170,183,study partner,caregiver,NCT00255086
+23,27,male,demography,NCT00265148
+48,59,one or more,value,NCT00265148
+222,225,age,demography,NCT00265148
+391,401,laboratory,measurement,NCT00265148
+847,866,alzheimer's disease,condition,NCT00265148
+982,990,relative,caregiver,NCT00265148
+1103,1139,mini mental state examination (mmse),measurement,NCT00265148
+1149,1154,16-26,value,NCT00265148
+1182,1186,aged,demography,NCT00265148
+1187,1203,>/= 50 to </= 85,value,NCT00265148
+1386,1395,caregiver,caregiver,NCT00265148
+1556,1615,subjects living alone or in a nursing home are not eligible,demography,NCT00265148
+33,53,probable alzheimer's,condition,NCT00277810
+77,101,cholinesterase inhibitor,drug,NCT00277810
+153,163,lives with,time,NCT00277810
+176,185,caregiver,caregiver,NCT00277810
+186,193,at home,demography,NCT00277810
+290,304,at least daily,time,NCT00277810
+20,31,outpatients,demography,NCT00309725
+47,66,alzheimer's disease,condition,NCT00309725
+247,267,probable alzheimer's,condition,NCT00309725
+290,298,dementia,condition,NCT00309725
+317,353,mini-mental state examination (mmse),measurement,NCT00309725
+360,392,"ranging from 11 to 24, inclusive",value,NCT00309725
+499,516,at least 6 months,time,NCT00309725
+621,633,at least one,value,NCT00309725
+837,842,daily,time,NCT00309725
+855,866,one or more,value,NCT00309725
+879,888,caregiver,caregiver,NCT00309725
+1415,1423,relative,caregiver,NCT00309725
+1437,1457,legal representative,caregiver,NCT00309725
+20,126,the patient must have successfully completed the full 78-week duration of the double-blind cl-758007 study,condition,NCT00314912
+128,132,male,demography,NCT00314912
+144,147,age,demography,NCT00314912
+148,166,50 years and older,value,NCT00314912
+169,278,female must be of non-childbearing potential (i.e. surgically sterilized or at least 2 years post-menopausal),condition,NCT00314912
+245,261,at least 2 years,time,NCT00314912
+296,319,living in the community,demography,NCT00314912
+336,345,caregiver,caregiver,NCT00314912
+347,453,participant living in an assisted living facility may be included if study medication intake is supervised,demography,NCT00314912
+529,563,reasonably good nutritional status,condition,NCT00314912
+607,627,legal representative,caregiver,NCT00314912
+120,124,male,demography,NCT00348140
+163,165,no,value,NCT00348140
+172,192,probable alzheimer's,condition,NCT00348140
+227,229,ad,condition,NCT00348140
+426,462,mild to moderate alzheimer's disease,condition,NCT00348140
+479,483,mmse,measurement,NCT00348140
+490,498,10 to 26,value,NCT00348140
+523,547,hachinski ischemia score,measurement,NCT00348140
+548,551,≤ 4,value,NCT00348140
+583,586,age,demography,NCT00348140
+587,604,≥50 and ≤90 years,value,NCT00348140
+606,623,at least 6 months,time,NCT00348140
+635,665,acetylcholinesterase inhibitor,drug,NCT00348140
+704,748,stable dosing for at least the last 2 months,time,NCT00348140
+928,1077,"female subjects must be post-menopausal (i.e. >1 year without menstrual period), surgically sterile, or agree to use adequate method of contraception",condition,NCT00348140
+1146,1286,"pre-menopausal or who have been post-menopausal for <1 year must undertake pregnancy testing (urine test) at visit 1, which must be negative",condition,NCT00348140
+1288,1303,brain ct or mri,procedure,NCT00348140
+1300,1303,mri,measurement,NCT00348140
+1370,1453,no evidence of any other potential cause of dementia other than alzheimer's disease,value,NCT00348140
+1414,1422,dementia,condition,NCT00348140
+1572,1589,neurological exam,procedure,NCT00348140
+1764,1774,lives with,time,NCT00348140
+1830,1839,caregiver,caregiver,NCT00348140
+2695,2770,"no less than 10 hours per week with the subject, divided over multiple days",time,NCT00348140
+3398,3473,qtc (either qtc b (bazett's correction) or qtc f (fridericia's correction)),measurement,NCT00348140
+3474,3482,<450msec,value,NCT00348140
+3517,3582,subjects with bundle branch block (for whom either qtc b or qtc f,measurement,NCT00348140
+3591,3599,<480msec,value,NCT00348140
+153,157,male,demography,NCT00357357
+169,172,age,demography,NCT00357357
+173,186,over 55 years,value,NCT00357357
+189,233,females must be non-child-bearing potential.,condition,NCT00357357
+234,361,male patients with female partners of child-bearing potential should use effective contraception for the duration of the study.,condition,NCT00357357
+377,397,probable alzheimer's,condition,NCT00357357
+613,621,dementia,condition,NCT00357357
+661,697,mini-mental state examination (mmse),measurement,NCT00357357
+707,712,12-24,value,NCT00357357
+731,754,living in the community,demography,NCT00357357
+775,789,at least daily,time,NCT00357357
+816,821,carer,caregiver,NCT00357357
+37,56,alzheimer's disease,condition,NCT00380302
+64,158,brain image(computerized axial tomographic scan -cat scan or magnetic resonance imaging - mri),procedure,NCT00380302
+154,157,mri,measurement,NCT00380302
+20,24,male,demography,NCT00381238
+64,158,completed the 12 month visit of 49653/461 (12 months of treatment) without tolerability issues,condition,NCT00381238
+278,587,"female subjects must be post-menopausal (i.e. >6 months without menstrual period), surgically sterile, or if of child-bearing potential, using effective contraceptive measures (oral contraceptives, norplant, depo-provera, an intra-uterine device (iud) a diaphragm with spermicide or a condom with spermicide).",condition,NCT00381238
+324,333,>6 months,time,NCT00381238
+759,768,caregiver,caregiver,NCT00381238
+20,37,at least 60 years,value,NCT00384423
+38,41,old,demography,NCT00384423
+55,60,10 mg,value,NCT00384423
+69,76,aricept,drug,NCT00384423
+81,97,at least 90 days,time,NCT00384423
+147,167,probable alzheimer's,condition,NCT00384423
+182,190,dementia,condition,NCT00384423
+274,341,"not pregnant, planning a pregnancy, or capable of becoming pregnant",condition,NCT00384423
+33,35,no,value,NCT00428090
+42,62,probable alzheimer's,condition,NCT00428090
+72,74,ad,condition,NCT00428090
+77,81,mmse,measurement,NCT00428090
+88,96,10 to 23,value,NCT00428090
+195,201,acheis,drug,NCT00428090
+217,226,caregiver,caregiver,NCT00428090
+20,23,age,demography,NCT00438568
+24,37,55 or greater,value,NCT00438568
+97,122,mild cognitive impairment,condition,NCT00438568
+132,151,alzheimer's disease,condition,NCT00438568
+153,155,ad,condition,NCT00438568
+189,198,memantine,drug,NCT00438568
+212,237,cholinesterase inhibitors,drug,NCT00438568
+67,70,age,demography,NCT00478205
+94,108,45 to 90 years,value,NCT00478205
+132,141,caregiver,caregiver,NCT00478205
+20,34,female or male,demography,NCT00500500
+38,52,50 to 85 years,value,NCT00500500
+53,56,old,demography,NCT00500500
+64,74,care giver,caregiver,NCT00500500
+75,99,mini mental status (mms),measurement,NCT00500500
+113,121,16 to 26,value,NCT00500500
+132,156,clinical dementia rating,measurement,NCT00500500
+141,149,dementia,condition,NCT00500500
+158,161,cdr,measurement,NCT00500500
+168,190,inferior or equal to 1,value,NCT00500500
+267,286,alzheimer's disease,condition,NCT00500500
+341,349,positive,value,NCT00500500
+40,59,alzheimer's disease,condition,NCT00581867
+20,24,male,demography,NCT00663936
+28,73,female (post-menopausal or surgically sterile,condition,NCT00663936
+89,125,mild to moderate alzheimer's disease,condition,NCT00663936
+144,153,donepezil,drug,NCT00663936
+155,158,age,demography,NCT00663936
+159,167,50 to 90,value,NCT00663936
+195,218,living in the community,demography,NCT00663936
+250,259,informant,caregiver,NCT00663936
+263,276,study partner,caregiver,NCT00663936
+278,287,caregiver,caregiver,NCT00663936
+0,12,men or women,demography,NCT00672945
+29,53,diagnosis of probable ad,value,NCT00672945
+42,53,probable ad,condition,NCT00672945
+54,58,mmse,measurement,NCT00672945
+65,73,12 to 22,value,NCT00672945
+84,87,age,demography,NCT00672945
+88,105,>50 and <90 years,value,NCT00672945
+115,132,at least 4 months,time,NCT00672945
+124,125,4,value,NCT00672945
+153,162,donepezil,drug,NCT00672945
+163,167,10mg,value,NCT00672945
+178,193,brain ct or mri,procedure,NCT00672945
+190,193,mri,measurement,NCT00672945
+241,257,within 24 months,time,NCT00672945
+258,282,neurological examination,procedure,NCT00672945
+283,412,"without focal deficits (excluding changes attributable to peripheral nervous system disease, trauma or congenital birth deficits)",value,NCT00672945
+413,510,no history or evidence of any other cns disorder that could be interpreted as a cause of dementia,condition,NCT00672945
+511,544,no diagnosis of vascular dementia,condition,NCT00672945
+545,642,no history of significant psychiatric illness such as schizophrenia or bipolar affective disorder,condition,NCT00672945
+707,721,antidepressant,drug,NCT00672945
+726,735,>6 months,time,NCT00672945
+752,897,"no evidence of the following: current vitamin b12 deficiency, positive syphilis serology, positive hiv test, or abnormalities in thyroid function",condition,NCT00672945
+814,822,positive,value,NCT00672945
+898,925,no cognitive rehabilitation,condition,NCT00672945
+926,941,within 6 months,time,NCT00672945
+977,986,caregiver,caregiver,NCT00672945
+1097,1132,no history of drug or alcohol abuse,condition,NCT00672945
+1133,1158,no clinically significant,value,NCT00672945
+1159,1169,laboratory,measurement,NCT00672945
+1274,1283,memantine,drug,NCT00672945
+1284,1299,within 2 months,time,NCT00672945
+1336,1367,acetylcholinesterase inhibitors,drug,NCT00672945
+1398,1413,within 4 months,time,NCT00672945
+1454,1457,ecg,procedure,NCT00672945
+1475,1490,cardiac history,condition,NCT00672945
+1491,1534,no history of uncontrolled seizure disorder,condition,NCT00672945
+1535,1551,within 12 months,time,NCT00672945
+1583,1597,mao inhibitors,drug,NCT00672945
+1599,1608,bupropion,drug,NCT00672945
+1609,1619,fluoxetine,drug,NCT00672945
+1621,1631,paroxetine,drug,NCT00672945
+1643,1667,no history of malignancy,condition,NCT00672945
+1668,1682,within 3 years,time,NCT00672945
+1700,1741,women cannot be pregnant or breastfeeding,condition,NCT00672945
+20,44,diagnosis of probable ad,value,NCT00676143
+33,44,probable ad,condition,NCT00676143
+51,55,mmse,measurement,NCT00676143
+65,70,16-26,value,NCT00676143
+76,85,brain mri,procedure,NCT00676143
+82,85,mri,measurement,NCT00676143
+86,121,consistent with the diagnosis of ad,value,NCT00676143
+140,164,cholinesterase inhibitor,drug,NCT00676143
+168,177,memantine,drug,NCT00676143
+198,207,caregiver,caregiver,NCT00676143
+42,52,either sex,demography,NCT00684944
+81,86,carer,caregiver,NCT00684944
+499,519,legal representative,caregiver,NCT00684944
+588,654,must have been ongoing in trx-014-001 at time of study termination,condition,NCT00684944
+20,32,men or women,demography,NCT00693004
+49,73,diagnosis of probable ad,value,NCT00693004
+62,73,probable ad,condition,NCT00693004
+74,78,mmse,measurement,NCT00693004
+85,93,16 to 24,value,NCT00693004
+104,107,age,demography,NCT00693004
+108,125,>50 and <90 years,value,NCT00693004
+126,141,brain ct or mri,procedure,NCT00693004
+138,141,mri,measurement,NCT00693004
+189,205,within 12 months,time,NCT00693004
+206,230,neurological examination,procedure,NCT00693004
+231,360,"without focal deficits (excluding changes attributable to peripheral nervous system disease, trauma or congenital birth deficits)",value,NCT00693004
+361,458,no history or evidence of any other cns disorder that could be interpreted as a cause of dementia,condition,NCT00693004
+459,492,no diagnosis of vascular dementia,condition,NCT00693004
+493,590,no history of significant psychiatric illness such as schizophrenia or bipolar affective disorder,condition,NCT00693004
+655,669,antidepressant,drug,NCT00693004
+674,683,>6 months,time,NCT00693004
+700,845,"no evidence of the following: current vitamin b12 deficiency, positive syphilis serology, positive hiv test, or abnormalities in thyroid function",condition,NCT00693004
+762,770,positive,value,NCT00693004
+846,873,no cognitive rehabilitation,condition,NCT00693004
+874,889,within 6 months,time,NCT00693004
+925,934,caregiver,caregiver,NCT00693004
+20,62,giving informed consent to lumbar puncture,condition,NCT00715858
+47,62,lumbar puncture,procedure,NCT00715858
+148,168,probable alzheimer's,condition,NCT00715858
+177,182,smmse,measurement,NCT00715858
+183,188,14-26,value,NCT00715858
+218,221,age,demography,NCT00715858
+222,235,50 or greater,value,NCT00715858
+236,245,caregiver,caregiver,NCT00715858
+310,374,adequate english literacy to complete neuropsychological testing,condition,NCT00715858
+375,407,generally stable level of health,condition,NCT00715858
+113,132,alzheimer's disease,condition,NCT00785759
+175,177,ad,condition,NCT00785759
+206,217,probable ad,condition,NCT00785759
+226,228,no,value,NCT00785759
+311,319,dementia,condition,NCT00785759
+381,393,amnestic mci,condition,NCT00785759
+411,465,no evidence of cognitive impairment by medical history,condition,NCT00785759
+20,56,mild to moderate alzheimer's disease,condition,NCT00930059
+58,62,mmse,measurement,NCT00930059
+63,68,14-26,value,NCT00930059
+70,89,good general health,condition,NCT00930059
+20,37,early stage of ad,condition,NCT00951834
+28,31,age,demography,NCT00951834
+43,45,no,value,NCT00951834
+100,106,60-100,value,NCT00951834
+107,111,mmse,measurement,NCT00951834
+112,117,20-26,value,NCT00951834
+132,139,at home,demography,NCT00951834
+145,157,at least one,value,NCT00951834
+158,166,relative,caregiver,NCT00951834
+226,235,donepezil,drug,NCT00951834
+237,244,aricept,drug,NCT00951834
+267,309,with at least 3 months to maximum 6 months,time,NCT00951834
+340,374,maximum of 2 cups of black tea/die,condition,NCT00951834
+376,388,no green tea,condition,NCT00951834
+390,436,not more than > 500 ml/die of grapefruit juice,condition,NCT00951834
+20,37,55 years or older,value,NCT01058941
+38,49,probable ad,condition,NCT01058941
+127,146,alzheimer's disease,condition,NCT01058941
+205,209,mmse,measurement,NCT01058941
+218,223,15-26,value,NCT01058941
+224,233,caregiver,caregiver,NCT01058941
+234,247,study partner,caregiver,NCT01058941
+313,338,cholinesterase inhibitors,drug,NCT01058941
+343,352,memantine,drug,NCT01058941
+390,404,4 months prior,time,NCT01058941
+390,391,4,value,NCT01058941
+441,502,"over-the-counter antioxidants (e.g. vitamin e, ginkgo biloba)",drug,NCT01058941
+593,618,lipid lowering medication,drug,NCT01058941
+680,706,geriatric depression scale,measurement,NCT01058941
+724,727,< 5,value,NCT01058941
+838,848,laboratory,measurement,NCT01058941
+856,876,within normal limits,value,NCT01058941
+29,33,aged,demography,NCT01075763
+42,57,50 and 75 years,value,NCT01075763
+82,84,ad,condition,NCT01075763
+193,197,mmse,measurement,NCT01075763
+207,215,20 to 26,value,NCT01075763
+253,262,caregiver,caregiver,NCT01075763
+42,70,probable alzheimer´s disease,condition,NCT01125683
+71,96,hachinski ischaemic score,measurement,NCT01125683
+97,100,< 4,value,NCT01125683
+101,110,mse score,measurement,NCT01125683
+111,119,18 to 24,value,NCT01125683
+42,62,probable alzheimer's,condition,NCT01183806
+71,88,at least 55 years,value,NCT01183806
+92,95,age,demography,NCT01183806
+101,110,caregiver,caregiver,NCT01183806
+138,155,at least 3 months,time,NCT01183806
+138,162,at least 3 months before,value,NCT01183806
+233,299,do not be taking other prescribed medication for alzheimer disease,drug,NCT01183806
+300,327,treated stable hypertension,condition,NCT01183806
+20,24,male,demography,NCT01245530
+36,39,age,demography,NCT01245530
+60,63,old,demography,NCT01245530
+112,132,legal representative,caregiver,NCT01245530
+157,176,alzheimer's disease,condition,NCT01245530
+230,250,probable alzheimer's,condition,NCT01245530
+425,429,mmse,measurement,NCT01245530
+436,444,10 to 26,value,NCT01245530
+445,480,cdr(clinical dementia rating) score,measurement,NCT01245530
+458,466,dementia,condition,NCT01245530
+488,519,gds(global deterioration scale),measurement,NCT01245530
+543,554,didn't take,value,NCT01245530
+574,579,achei,drug,NCT01245530
+581,590,donepezil,drug,NCT01245530
+592,601,memantine,drug,NCT01245530
+603,613,galantamin,drug,NCT01245530
+659,686,at least 4 weeks more prior,time,NCT01245530
+668,669,4,value,NCT01245530
+715,730,menopause women,condition,NCT01245530
+734,830,her/his spouse consent with contraception during the study period and 90 days after end of study,condition,NCT01245530
+42,62,probable alzheimer's,condition,NCT01249196
+89,91,ad,condition,NCT01249196
+105,108,mri,measurement,NCT01249196
+105,108,mri,procedure,NCT01249196
+125,126,1,value,NCT01249196
+135,168,consistent with a diagnosis of ad,value,NCT01249196
+169,173,mmse,measurement,NCT01249196
+183,191,10 to 26,value,NCT01249196
+196,199,cdr,measurement,NCT01249196
+203,209,1 or 2,value,NCT01249196
+210,215,achei,drug,NCT01249196
+219,228,memantine,drug,NCT01249196
+233,266,not taken at least 3 months prior,time,NCT01249196
+33,83,amnestic or non-amnestic mild cognitive impairment,condition,NCT01303744
+85,120,mini-mental state examination score,measurement,NCT01303744
+121,135,higher than 24,value,NCT01303744
+150,153,mri,measurement,NCT01303744
+150,153,mri,procedure,NCT01303744
+149,158,caregiver,caregiver,NCT01324518
+159,180,males and and females,demography,NCT01324518
+189,194,55-90,value,NCT01324518
+214,234,probable alzheimer's,condition,NCT01324518
+291,304,brain imaging,procedure,NCT01324518
+305,340,consistent with alzheimer's disease,value,NCT01324518
+341,376,mini-mental state examination score,measurement,NCT01324518
+377,382,12-21,value,NCT01324518
+396,405,donepezil,drug,NCT01324518
+407,419,rivastigmine,drug,NCT01324518
+423,434,galantamine,drug,NCT01324518
+20,23,age,demography,NCT01409694
+24,34,≥ 60 years,value,NCT01409694
+39,41,no,value,NCT01409694
+48,76,moderate alzheimer's disease,condition,NCT01409694
+135,171,mini-mental state examination (mmse),measurement,NCT01409694
+172,201,between 10 and 20 inclusively,value,NCT01409694
+210,293,"hypovitaminosis d (i.e., serum 25-hydroxyvitamin d [25ohd]concentration < 30 ng/ml)",condition,NCT01409694
+302,373,"no hypercalcemia (defined as serum calcium concentration ≥ 2,65 mmol/l)",condition,NCT01409694
+514,534,legal representative,caregiver,NCT01409694
+20,24,male,demography,NCT01436045
+59,83,diagnosis of probable ad,value,NCT01436045
+72,83,probable ad,condition,NCT01436045
+185,204,alzheimer's disease,condition,NCT01436045
+267,275,dementia,condition,NCT01436045
+298,299,1,value,NCT01436045
+301,302,4,value,NCT01436045
+305,341,mini-mental state examination (mmse),measurement,NCT01436045
+351,356,18-26,value,NCT01436045
+358,382,hachinski ischemia score,measurement,NCT01436045
+383,386,< 4,value,NCT01436045
+388,391,age,demography,NCT01436045
+395,413,> 65 and <85 years,value,NCT01436045
+414,477,females must be > 2 years post-menopausal or surgically sterile,condition,NCT01436045
+630,655,"family member /caregiver,",caregiver,NCT01436045
+1002,1035,legally authorized representative,caregiver,NCT01436045
+1055,1065,≥ 1 months,time,NCT01436045
+1083,1113,acetylcholinesterase inhibitor,drug,NCT01436045
+1120,1129,donepezil,drug,NCT01436045
+1131,1143,rivastigmine,drug,NCT01436045
+1145,1156,galantamine,drug,NCT01436045
+1165,1174,memantine,drug,NCT01436045
+1178,1193,brain ct or mri,procedure,NCT01436045
+1190,1193,mri,measurement,NCT01436045
+1214,1275,compatible with the diagnosis of probable alzheimer's disease,value,NCT01436045
+1247,1267,probable alzheimer's,condition,NCT01436045
+1279,1303,clinical dementia rating,measurement,NCT01436045
+1305,1308,cdr,measurement,NCT01436045
+1323,1329,1 to 2,value,NCT01436045
+44,46,ad,condition,NCT01466088
+114,150,mini-mental state examination (mmse),measurement,NCT01466088
+161,169,12 to 22,value,NCT01466088
+184,208,at least 12 months prior,time,NCT01466088
+240,253,brain imaging,procedure,NCT01466088
+262,277,within 6 months,time,NCT01466088
+318,326,dementia,condition,NCT01466088
+370,388,modified hachinski,measurement,NCT01466088
+413,419,</= 4.,value,NCT01466088
+434,443,caregiver,caregiver,NCT01466088
+571,587,able to complete,value,NCT01466088
+23,25,no,value,NCT01539031
+53,73,probable alzheimer's,condition,NCT01539031
+83,85,ad,condition,NCT01539031
+202,238,mini mental state examination (mmse),measurement,NCT01539031
+239,293,less than or equal to 12 and greater than or equal to1,value,NCT01539031
+409,461,no evidence of focal disease to account for dementia,value,NCT01539031
+453,461,dementia,condition,NCT01539031
+479,482,age,demography,NCT01539031
+484,510,magnetic resonance imaging,procedure,NCT01539031
+512,515,mri,measurement,NCT01539031
+512,515,mri,procedure,NCT01539031
+566,570,male,demography,NCT01539031
+591,624,greater than or equal to 50 years,value,NCT01539031
+642,653,outpatients,demography,NCT01539031
+719,728,caregiver,caregiver,NCT01539031
+873,882,donepezil,drug,NCT01539031
+891,896,10 mg,value,NCT01539031
+917,922,daily,time,NCT01539031
+932,965,greater than or equal to 3 months,time,NCT01539031
+29,53,diagnosis of probable ad,value,NCT01569516
+42,53,probable ad,condition,NCT01569516
+101,105,male,demography,NCT01569516
+121,125,aged,demography,NCT01569516
+134,143,50 and 85,value,NCT01569516
+145,173,mild to moderate probable ad,condition,NCT01569516
+175,273,"middle school or above: 11 ≤mmse ≤ 25, elementary school: 8 ≤ mmse ≤ 20, illiteracy: 5 ≤ mmse ≤ 16",value,NCT01569516
+203,207,mmse,measurement,NCT01569516
+275,289,ct or mri scan,procedure,NCT01569516
+281,284,mri,measurement,NCT01569516
+290,332,excluding another structural brain disease,value,NCT01569516
+346,368,neurologic examination,procedure,NCT01569516
+369,397,no significant abnormalities,value,NCT01569516
+399,423,hachinski ischemic score,measurement,NCT01569516
+454,457,≤10,value,NCT01569516
+459,475,able to complete,value,NCT01569516
+588,597,chaperone,caregiver,NCT01569516
+599,692,more than 2 hours a day together with the patient or accumulated fewer than 14 hours per week,time,NCT01569516
+730,750,legal representative,caregiver,NCT01569516
+763,772,caregiver,caregiver,NCT01569516
+38,47,caregiver,caregiver,NCT01676935
+308,374,randomized into study m10-985 and completed dosing through week 24,condition,NCT01676935
+429,448,mild to moderate ad,condition,NCT01676935
+578,598,physical examination,procedure,NCT01676935
+600,611,vital signs,measurement,NCT01676935
+613,623,laboratory,measurement,NCT01676935
+639,650,12-lead ecg,procedure,NCT01676935
+657,834,"male, the subject is surgically sterile (vasectomy, is sexually inactive, or is using a barrier method of birth control (condom) with spermicidal foam/gel/film/cream/suppository",condition,NCT01676935
+657,661,male,demography,NCT01676935
+968,1028,postmenopausal for at least 2 years or is surgically sterile,condition,NCT01676935
+987,1003,at least 2 years,time,NCT01676935
+244,253,caregiver,caregiver,NCT01723826
+300,305,daily,time,NCT01723826
+391,411,probable alzheimer's,condition,NCT01723826
+609,645,mini-mental state examination (mmse),measurement,NCT01723826
+655,665,10 or more,value,NCT01723826
+706,833,"male participants with partners with reproductive potential, agreement to use a reliable means of contraception (e.g., condoms)",condition,NCT01723826
+706,710,male,demography,NCT01723826
+918,964,"female participants, a negative pregnancy test",condition,NCT01723826
+62,66,amci,condition,NCT01767909
+91,102,probable ad,condition,NCT01767909
+179,198,alzheimer's disease,condition,NCT01767909
+257,293,mini mental state examination (mmse),measurement,NCT01767909
+316,343,greater than or equal to 20,value,NCT01767909
+344,368,clinical dementia rating,measurement,NCT01767909
+353,361,dementia,condition,NCT01767909
+372,375,0.5,value,NCT01767909
+376,377,1,value,NCT01767909
+457,466,education,demography,NCT01767909
+468,491,less than or equal to 4,value,NCT01767909
+688,704,able to complete,value,NCT01767909
+726,744,modified hachinski,measurement,NCT01767909
+780,793,study partner,caregiver,NCT01767909
+950,1005,more than 2 days per week (minimum of 10 hours per week,value,NCT01767909
+1089,1101,for 3 months,time,NCT01767909
+1150,1157,4 weeks,time,NCT01767909
+1237,1284,at least six years of education or work history,demography,NCT01767909
+1294,1304,laboratory,measurement,NCT01767909
+1320,1340,within normal limits,value,NCT01767909
+20,44,diagnosis of probable ad,value,NCT01852110
+33,44,probable ad,condition,NCT01852110
+139,158,alzheimer's disease,condition,NCT01852110
+428,440,at least one,value,NCT01852110
+530,539,informant,caregiver,NCT01852110
+597,602,daily,time,NCT01852110
+611,616,achei,drug,NCT01852110
+625,634,donepezil,drug,NCT01852110
+636,648,rivastigmine,drug,NCT01852110
+653,664,galantamine,drug,NCT01852110
+671,690,at least two months,value,NCT01852110
+828,833,10 mg,value,NCT01852110
+886,991,9.5 or 13.3 mg/24 hours administered by transdermal patch or 6-12 mg total daily dose administered orally,value,NCT01852110
+1006,1031,16-24 mg total daily dose,value,NCT01852110
+1117,1207,history of academic achievement and/or employment sufficient to exclude mental retardation,condition,NCT01852110
+1238,1251,trial partner,caregiver,NCT01852110
+53,57,male,demography,NCT01940952
+77,85,50 to 90,value,NCT01940952
+95,98,age,demography,NCT01940952
+113,133,probable alzheimer's,condition,NCT01940952
+300,336,mini-mental state examination (mmse),measurement,NCT01940952
+346,357,≥10 and ≤26,value,NCT01940952
+366,390,clinical dementia rating,measurement,NCT01940952
+375,383,dementia,condition,NCT01940952
+391,396,≥ 0.5,value,NCT01940952
+398,457,mild to moderate (not severe) white matter hyperintensities,value,NCT01940952
+461,470,brain mri,procedure,NCT01940952
+467,470,mri,measurement,NCT01940952
+593,603,caregivers,caregiver,NCT01940952
+604,674,living with patients or spending 10 or more hours a week with patients,value,NCT01940952
+691,700,donepezil,drug,NCT01940952
+701,713,(5mg to 10mg,value,NCT01940952
+719,735,at least 60 days,time,NCT01940952
+762,771,memantine,drug,NCT01940952
+786,817,washed out for at least 60 days,time,NCT01940952
+841,852,anxiolytics,drug,NCT01940952
+854,868,antipsychotics,drug,NCT01940952
+874,883,hypnotics,drug,NCT01940952
+904,947,dose has been stable for at least two weeks,time,NCT01940952
+20,70,membership in psen1 e280a mutation carrier kindred,condition,NCT01998841
+38,39,1,value,NCT01998841
+123,138,genetic testing,measurement,NCT01998841
+178,182,apoe,measurement,NCT01998841
+225,275,psen1 e280a mutation carrier or non-carrier status,value,NCT01998841
+335,371,mini-mental stage examination (mmse),measurement,NCT01998841
+372,525,greater than or equal to (>=) 24 for participants with less than (<) 9 years of education or mmse >=26 for participants with 9 or more years of education,value,NCT01998841
+452,461,education,demography,NCT01998841
+526,571,does not meet criteria for dementia due to ad,condition,NCT01998841
+681,749,does not meet criteria for mild cognitive impairment (mci) due to ad,condition,NCT01998841
+923,939,able to complete,value,NCT01998841
+1404,1416,at least one,value,NCT01998841
+1657,1858,"men with partners of childbearing potential (that is [i.e.], women who are not surgically sterile and are not postmenopausal), agreement to remain abstinent or use a condom as a method of contraception",condition,NCT01998841
+1946,1959,study partner,caregiver,NCT01998841
+2410,2415,daily,time,NCT01998841
+2890,2915,neuroimaging (pet and mri,procedure,NCT01998841
+2912,2915,mri,measurement,NCT01998841
+2917,2956,serum thyroid stimulating hormone (tsh),measurement,NCT01998841
+2961,2971,b12 levels,measurement,NCT01998841
+2979,2985,normal,value,NCT01998841
+3021,3031,laboratory,measurement,NCT01998841
+3665,3684,good general health,condition,NCT01998841
+20,23,age,demography,NCT02017340
+31,33,ad,condition,NCT02017340
+47,64,males and females,demography,NCT02017340
+65,82,over age 50 years,value,NCT02017340
+103,131,mild to moderate probable ad,condition,NCT02017340
+184,240,standardised mini-mental state examination (smmse) score,measurement,NCT02017340
+241,245,> 12,value,NCT02017340
+262,271,>3 months,time,NCT02017340
+275,299,cholinesterase inhibitor,drug,NCT02017340
+307,316,memantine,drug,NCT02017340
+343,368,cholinesterase inhibitors,drug,NCT02017340
+527,537,informants,caregiver,NCT02017340
+930,967,systolic bp > 100 mmhg but ≤ 159 mmhg,value,NCT02017340
+973,1009,diastolic bp > 65 mmhg but ≤ 99 mmhg,value,NCT02017340
+1013,1049,resting office based bp measurements,measurement,NCT02017340
+1056,1093,systolic bp > 105 mmhg but ≤ 140 mmhg,value,NCT02017340
+1099,1135,diastolic bp > 70 mmhg but ≤ 90 mmhg,value,NCT02017340
+1139,1155,abpm measurement,measurement,NCT02017340
+27,29,ad,condition,NCT02033941
+46,57,probable ad,condition,NCT02033941
+58,62,mmse,measurement,NCT02033941
+71,76,12-26,value,NCT02033941
+94,118,cholinesterase inhibitor,drug,NCT02033941
+125,162,nmda (n-methyl-d-asparate) antagonist,drug,NCT02033941
+184,201,at least 12 weeks,time,NCT02033941
+259,268,caregiver,caregiver,NCT02033941
+353,362,informant,caregiver,NCT02033941
+392,409,medical stability,value,NCT02033941
+460,485,internist's physical exam,procedure,NCT02033941
+487,504,neurological exam,procedure,NCT02033941
+510,520,laboratory,measurement,NCT02033941
+543,545,no,value,NCT02033941
+567,603,no evidence of hepatic insufficiency,value,NCT02033941
+20,24,aged,demography,NCT02035982
+25,34,>55 years,value,NCT02035982
+101,130,primary degenerative dementia,condition,NCT02035982
+214,233,alzheimer's disease,condition,NCT02035982
+276,278,ad,condition,NCT02035982
+296,307,probable ad,condition,NCT02035982
+311,339,at least one year's duration,time,NCT02035982
+311,323,at least one,value,NCT02035982
+346,349,≤15,value,NCT02035982
+357,393,mini-mental state examination (mmse),measurement,NCT02035982
+422,431,donepezil,drug,NCT02035982
+433,443,5 or 10 mg,value,NCT02035982
+446,457,galantamine,drug,NCT02035982
+459,473,"8, 16 or 24 mg",value,NCT02035982
+478,490,rivastigmine,drug,NCT02035982
+492,506,"3, 4.5 or 6 mg",value,NCT02035982
+517,533,at least 2 years,time,NCT02035982
+558,575,at least 3 months,time,NCT02035982
+658,670,psychotropic,drug,NCT02035982
+810,824,antipsychotics,drug,NCT02035982
+862,878,at least 1 month,time,NCT02035982
+48,72,diagnosis of probable ad,value,NCT02064920
+61,72,probable ad,condition,NCT02064920
+143,152,informant,caregiver,NCT02064920
+179,196,at least 6 months,time,NCT02064920
+212,229,partner/caregiver,caregiver,NCT02064920
+311,331,physical examination,procedure,NCT02064920
+336,361,clinical laboratory tests,measurement,NCT02064920
+369,375,normal,value,NCT02064920
+641,701,acceptable history of academic achievement and/or employment,demography,NCT02064920
+708,734,magnetic resonance imaging,procedure,NCT02064920
+736,739,mri,measurement,NCT02064920
+736,739,mri,procedure,NCT02064920
+751,816,rules out non-ad conditions contributing to cognitive dysfunction,value,NCT02064920
+905,946,females are not of childbearing potential,condition,NCT02064920
+36,178,"completed visit 7 (completion visit) in the lead-in double-blind, placebo controlled clinical studies 14861a/nct01955161 or 14862a/nct02006641",condition,NCT02079246
+225,264,completed visit 6 (week 28) of the olex,condition,NCT02079246
+365,374,memantine,drug,NCT02079246
+74,85,probable ad,condition,NCT02167256
+86,106,18f-florbetapir scan,procedure,NCT02167256
+86,87,1,value,NCT02167256
+124,135,elevated aβ,value,NCT02167256
+162,165,age,demography,NCT02167256
+174,179,55-85,value,NCT02167256
+192,196,mmse,measurement,NCT02167256
+211,220,18 and 26,value,NCT02167256
+272,279,4 weeks,time,NCT02167256
+272,273,4,value,NCT02167256
+312,327,antidepressants,drug,NCT02167256
+390,392,no,value,NCT02167256
+418,459,do not have a history of major depression,condition,NCT02167256
+471,482,past 1 year,time,NCT02167256
+484,509,cholinesterase inhibitors,drug,NCT02167256
+514,523,memantine,drug,NCT02167256
+552,566,12 weeks prior,time,NCT02167256
+577,603,geriatric depression scale,measurement,NCT02167256
+604,756,"less than 6 [note: a score ≥6 on this screening scale may be permissible, if the subject is examined by a site clinician and judged not to be depressed.",value,NCT02167256
+758,771,study partner,caregiver,NCT02167256
+834,862,average of 10 hours per week,value,NCT02167256
+1023,1042,good general health,condition,NCT02167256
+1096,1230,"subject is not pregnant, lactating, or of childbearing potential (i.e., women must be two years post-menopausal or surgically sterile)",condition,NCT02167256
+1231,1249,modified hachinski,measurement,NCT02167256
+1250,1273,less than or equal to 4,value,NCT02167256
+1274,1294,completed six grades,value,NCT02167256
+1298,1307,education,demography,NCT02167256
+1311,1334,has a good work history,demography,NCT02167256
+22,24,ad,condition,NCT02245737
+93,111,more than 6 months,time,NCT02245737
+141,154,study partner,caregiver,NCT02245737
+155,190,mini-mental state examination score,measurement,NCT02245737
+194,199,20-30,value,NCT02245737
+324,353,mild alzheimer's disease (ad),condition,NCT02245737
+459,470,probable ad,condition,NCT02245737
+490,503,mci due to ad,condition,NCT02245737
+20,24,ages,demography,NCT02246075
+25,42,≥55 and ≤85 years,value,NCT02246075
+222,246,support person/caregiver,caregiver,NCT02246075
+353,361,dementia,condition,NCT02246075
+381,392,probable ad,condition,NCT02246075
+488,507,alzheimer's disease,condition,NCT02246075
+520,546,magnetic resonance imaging,procedure,NCT02246075
+548,551,mri,measurement,NCT02246075
+548,551,mri,procedure,NCT02246075
+596,612,within 12 months,time,NCT02246075
+603,604,1,value,NCT02246075
+645,758,consistent with the diagnosis of dementia due to ad without any other clinically significant comorbid pathologies,value,NCT02246075
+766,780,mri or ct scan,measurement,NCT02246075
+1023,1059,mini-mental state examination (mmse),measurement,NCT02246075
+1066,1077,≥12 and ≤26,value,NCT02246075
+1091,1109,modified hachinski,measurement,NCT02246075
+1138,1140,≤4,value,NCT02246075
+1154,1249,"fertile, sexually active subjects (men and women) must use an effective method of contraception",condition,NCT02246075
+1189,1202,men and women,demography,NCT02246075
+1268,1629,"female subjects and the female partner of male subjects must be surgically sterile (hysterectomy or bilateral tubal ligation), postmenopausal for at least 1-year, or willing to practice adequate methods of contraception if of childbearing potential (defined as consistent use of combined effective methods of contraception [including at least 1 barrier method])",condition,NCT02246075
+1270,1274,male,demography,NCT02246075
+1823,1953,"living at home, senior residential setting, or an institutional setting without the need for continuous (ie, 24-hour) nursing care",demography,NCT02246075
+2147,2156,memantine,drug,NCT02246075
+2161,2178,at least 3 months,time,NCT02246075
+2289,2294,achei,drug,NCT02246075
+2296,2305,donepezil,drug,NCT02246075
+2309,2350,any dose form other than 23 mg once daily,value,NCT02246075
+2345,2350,daily,time,NCT02246075
+2357,2369,rivastigmine,drug,NCT02246075
+2373,2384,galantamine,drug,NCT02246075
+20,233,completed the pivotal ad-4833/tomm40_301 study with an adjudicated diagnosis of mild cognitive impairment (mci) due to alzheimer's disease (ad) without ongoing serious adverse events (saes) from ad-4833/tomm40_301,condition,NCT02284906
+238,242,male,demography,NCT02284906
+260,277,at least 65 years,value,NCT02284906
+281,284,age,demography,NCT02284906
+664,718,living independently or in nonmedical residential care,demography,NCT02284906
+726,741,project partner,caregiver,NCT02284906
+217,230,mci due to ad,condition,NCT02322021
+257,269,prodromal ad,condition,NCT02322021
+274,285,ad dementia,condition,NCT02322021
+296,299,age,demography,NCT02322021
+360,376,amyloid positive,value,NCT02322021
+377,411,positron emission tomography (pet),procedure,NCT02322021
+457,461,male,demography,NCT02322021
+477,491,50 to 85 years,value,NCT02322021
+547,556,caregiver,caregiver,NCT02322021
+560,569,informant,caregiver,NCT02322021
+698,728,acetylcholinesterase inhibitor,drug,NCT02322021
+730,735,achei,drug,NCT02322021
+740,749,memantine,drug,NCT02322021
+787,804,at least 12 weeks,time,NCT02322021
+853,855,no,value,NCT02322021
+1024,1030,acheis,drug,NCT02322021
+1233,1246,least 4 weeks,time,NCT02322021
+1239,1240,4,value,NCT02322021
+37,48,45-89 years,value,NCT02380573
+49,52,old,demography,NCT02380573
+53,64,all genders,demography,NCT02380573
+65,79,all minorities,demography,NCT02380573
+123,172,postmenopausal or surgically sterile females only,condition,NCT02380573
+244,273,amnestic and non-amnestic mci,condition,NCT02380573
+395,397,ad,condition,NCT02380573
+410,448,"alzheimer's early-stage, sporadic-type",condition,NCT02380573
+40,70,early alzheimer's disease (ad),condition,NCT02406027
+78,103,mild cognitive impairment,condition,NCT02423122
+117,128,probable ad,condition,NCT02423122
+135,142,mild ad,condition,NCT02423122
+143,147,mmse,measurement,NCT02423122
+155,163,20 to 28,value,NCT02423122
+164,193,evidence of amyloid pathology,value,NCT02423122
+197,208,amyloid pet,procedure,NCT02423122
+241,259,medications for ad,drug,NCT02423122
+325,334,>3 months,time,NCT02423122
+50,59,caregiver,caregiver,NCT02431468
+151,155,male,demography,NCT02431468
+176,181,55-85,value,NCT02431468
+191,194,age,demography,NCT02431468
+235,251,at least 2 years,time,NCT02431468
+290,310,probable alzheimer's,condition,NCT02431468
+311,348,mini mental state exam (mmse-2) score,measurement,NCT02431468
+352,353,4,value,NCT02431468
+390,402,at least one,value,NCT02431468
+447,526,neuroimaging (computerized tomography (ct) or magnetic resonance imaging (mri)),procedure,NCT02431468
+521,524,mri,measurement,NCT02431468
+553,617,consistent with a diagnosis of probable alzheimer's disease (ad),value,NCT02431468
+584,612,probable alzheimer's disease,condition,NCT02431468
+614,616,ad,condition,NCT02431468
+627,655,caregiver(s) or informant(s),caregiver,NCT02431468
+692,754,average of 3 hours or more per day for 3 or more days per week,time,NCT02431468
+881,906,cholinesterase inhibitors,drug,NCT02431468
+908,917,memantine,drug,NCT02431468
+949,966,at least 3 months,time,NCT02431468
+20,56,mean resting systolic blood pressure,measurement,NCT02471833
+57,82,≥ 110 mmhg and ≤ 170 mmhg,value,NCT02471833
+83,120,family history of alzheimer's disease,condition,NCT02471833
+121,137,african american,demography,NCT02471833
+77,90,mci due to ad,condition,NCT02484547
+94,101,mild ad,condition,NCT02484547
+119,143,clinical dementia rating,measurement,NCT02484547
+128,136,dementia,condition,NCT02484547
+166,169,0.5,value,NCT02484547
+230,234,mmse,measurement,NCT02484547
+249,258,24 and 30,value,NCT02484547
+283,291,positive,value,NCT02484547
+292,339,amyloid positron emission tomography (pet) scan,procedure,NCT02484547
+374,378,apoe,measurement,NCT02484547
+506,507,1,value,NCT02484547
+529,538,informant,caregiver,NCT02484547
+542,551,caregiver,caregiver,NCT02484547
+39,50,body weight,measurement,NCT02576639
+52,57,≥45kg,value,NCT02576639
+58,61,bmi,measurement,NCT02576639
+63,74,18-34 kg/m2,value,NCT02576639
+47,67,probable alzheimer's,condition,NCT02579252
+187,223,mini mental state examination (mmse),measurement,NCT02579252
+230,243,≥ 20 and ≤ 26,value,NCT02579252
+245,254,brain mri,procedure,NCT02579252
+251,254,mri,measurement,NCT02579252
+263,315,consistent with the diagnosis of alzheimer's disease,value,NCT02579252
+316,415,medial temporal lobe atrophy: scheltens score of ≥ 2 (on a scale of 0-4 on the more atrophied side),value,NCT02579252
+423,431,positive,value,NCT02579252
+432,434,ad,condition,NCT02579252
+460,463,csf,measurement,NCT02579252
+465,479,"amyloid+, tau+",value,NCT02579252
+481,497,at least 6 years,value,NCT02579252
+501,528,formal elementary education,demography,NCT02579252
+530,533,age,demography,NCT02579252
+534,545,50-85 years,value,NCT02579252
+736,766,acetylcholinesterase inhibitor,drug,NCT02579252
+771,788,at least 3 months,time,NCT02579252
+830,839,memantine,drug,NCT02579252
+925,955,hachinski ischemia scale score,measurement,NCT02579252
+956,959,≤ 4,value,NCT02579252
+979,988,caregiver,caregiver,NCT02579252
+990,1074,female patients must be either surgically sterile or at least 2 years postmenopausal,condition,NCT02579252
+992,996,male,demography,NCT02579252
+1043,1059,at least 2 years,time,NCT02579252
+1076,1238,"male patients must either be surgically sterile, or he and his female spouse/partner who is of childbearing potential must be using highly effective contraception",condition,NCT02579252
+20,45,mild cognitive impairment,condition,NCT02646982
+131,238,"logical memory subscale (delayed paragraph recall, paragraph a only) from the wechsler memory scale-revised",measurement,NCT02646982
+267,366,<11 for 16 or more years of education; <9 for 8-15 years of education; <6 for <7 years of education,value,NCT02646982
+295,304,education,demography,NCT02646982
+368,404,montreal cognitive assessment (moca),measurement,NCT02646982
+405,409,< 26,value,NCT02646982
+410,434,clinical dementia rating,measurement,NCT02646982
+419,427,dementia,condition,NCT02646982
+561,579,amyloid positivity,value,NCT02646982
+671,690,cerebrospinal fluid,measurement,NCT02646982
+692,695,csf,measurement,NCT02646982
+717,739,amyloid scan (pib-pet),procedure,NCT02646982
+34,75,early signs of dementia of alzheimer type,condition,NCT02788513
+76,80,male,demography,NCT02788513
+109,112,age,demography,NCT02788513
+116,133,at least 55 years,value,NCT02788513
+153,184,acetylcholinesterase inhibitors,drug,NCT02788513
+186,192,acheis,drug,NCT02788513
+197,221,allowed but not required,value,NCT02788513
+327,344,at least 3 months,time,NCT02788513
+609,616,stopped,value,NCT02788513
+674,690,at least 6 years,value,NCT02788513
+694,710,formal education,demography,NCT02788513
+853,866,study partner,caregiver,NCT02788513
+911,948,"family member, partner etc., guardian",caregiver,NCT02788513
+248,261,men and women,demography,NCT02907567
+263,274,50-80 years,value,NCT02907567
+278,281,age,demography,NCT02907567
+305,307,no,value,NCT02907567
+314,350,mild to moderate alzheimer's disease,condition,NCT02907567
+381,536,"women must be neither pregnant nor nursing, and are either surgically sterile, postmenopausal or premenopausal using an acceptable method of contraception.",condition,NCT02907567
+593,611,neuroimaging (mri),procedure,NCT02907567
+607,610,mri,measurement,NCT02907567
+671,732,consistent with the clinical diagnosis of alzheimer's disease,value,NCT02907567
+734,738,mmse,measurement,NCT02907567
+739,744,18-26,value,NCT02907567
+783,815,geriatric depression score (gds),measurement,NCT02907567
+819,822,< 6,value,NCT02907567
+824,842,modified hachinski,measurement,NCT02907567
+858,861,≤ 4,value,NCT02907567
+863,879,formal education,demography,NCT02907567
+883,902,eight or more years,value,NCT02907567
+904,994,living at home or in a community setting (assisted living) without continuous nursing care,demography,NCT02907567
+1030,1039,caregiver,caregiver,NCT02907567
+1054,1077,at least 3 times weekly,time,NCT02907567
+1306,1337,acetylcholinesterase inhibitors,drug,NCT02907567
+1341,1350,memantine,drug,NCT02907567
+1366,1383,for 90 days prior,time,NCT02907567
+20,32,man or women,demography,NCT02997982
+34,37,age,demography,NCT02997982
+38,48,≥ 65 years,value,NCT02997982
+178,182,mmse,measurement,NCT02997982
+234,236,no,value,NCT02997982
+266,285,alzheimer's disease,condition,NCT02997982
+289,314,mild cognitive impairment,condition,NCT02997982
+343,355,at least one,value,NCT02997982
+356,369,brain imaging,procedure,NCT02997982
+405,428,"ct, mr, spect or pet/ct",procedure,NCT02997982
+527,610,"reduced perfusion or reduced metabolism bilaterally temporally, hippocampal atrophy",value,NCT02997982
+614,658,pathological markers for alzheimer's disease,value,NCT02997982
+662,681,cerebrospinal fluid,measurement,NCT02997982
+868,874,normal,value,NCT02997982
+906,914,positive,value,NCT02997982
+919,983,anti-hsv (herpes simplex virus) immunoglobulin g (igg) in plasma,measurement,NCT02997982
+1006,1026,hetero or homozygote,value,NCT02997982
+1031,1062,allele 4 of gene apolipoprotein,measurement,NCT02997982
+1038,1039,4,value,NCT02997982
+1139,1151,rivastigmine,drug,NCT02997982
+1153,1163,galantamin,drug,NCT02997982
+1165,1174,donepezil,drug,NCT02997982
+1178,1186,memantin,drug,NCT02997982
+1192,1210,at least one month,time,NCT02997982
+1212,1281,no known allergy or oversensitivity against valaciclovir or aciclovir,condition,NCT02997982
+1327,1335,relative,caregiver,NCT02997982
+1345,1354,caretaker,caregiver,NCT02997982
+36,85,gradual and progressive change in memory function,condition,NCT03352557
+91,109,more than 6 months,time,NCT03352557
+154,179,mild cognitive impairment,condition,NCT03352557
+193,212,alzheimer's disease,condition,NCT03352557
+221,228,mild ad,condition,NCT03352557
+299,323,clinical dementia rating,measurement,NCT03352557
+308,316,dementia,condition,NCT03352557
+331,334,cdr,measurement,NCT03352557
+352,355,0.5,value,NCT03352557
+360,373,mci due to ad,condition,NCT03352557
+377,385,0.5 or 1,value,NCT03352557
+398,434,mini-mental state examination (mmse),measurement,NCT03352557
+444,452,22 to 30,value,NCT03352557
+465,485,cdr memory box score,measurement,NCT03352557
+489,493,≥0.5,value,NCT03352557
+528,532,apoe,measurement,NCT03352557
+557,566,informant,caregiver,NCT03352557
+567,580,study partner,caregiver,NCT03352557
+591,614,amyloid beta positivity,condition,NCT03352557
+43,51,dementia,condition,NCT03363269
+105,125,probable alzheimer's,condition,NCT03363269
+164,182,modified hachinski,measurement,NCT03363269
+207,230,less than or equal to 4,value,NCT03363269
+231,266,mini-mental state examination score,measurement,NCT03363269
+267,275,16 to 26,value,NCT03363269
+280,304,clinical dementia rating,measurement,NCT03363269
+324,327,0.5,value,NCT03363269
+333,349,amyloid postivie,value,NCT03363269
+350,359,pet image,procedure,NCT03363269
+361,378,bapl score 2 or 3,value,NCT03363269
+411,426,ache inhibitors,drug,NCT03363269
+430,445,nmda antagonist,drug,NCT03363269
+446,467,at least for 3 months,time,NCT03363269
+20,69,gradual and progressive change in memory function,condition,NCT03367403
+98,108,informants,caregiver,NCT03367403
+113,123,≥ 6 months,time,NCT03367403
+125,129,mmse,measurement,NCT03367403
+139,147,20 to 28,value,NCT03367403
+200,221,flortaucipir pet scan,procedure,NCT03367403
+222,237,within 6 months,time,NCT03367403
+20,44,diagnosis of probable ad,value,NCT03520998
+33,44,probable ad,condition,NCT03520998
+130,134,mmse,measurement,NCT03520998
+141,146,12-24,value,NCT03520998
+157,175,modified hachinski,measurement,NCT03520998
+207,210,≤ 4,value,NCT03520998
+298,318,legal representative,caregiver,NCT03520998
+334,347,trial partner,caregiver,NCT03520998
+20,24,ages,demography,NCT03533257
+25,30,55-89,value,NCT03533257
+43,47,male,demography,NCT03533257
+62,64,no,value,NCT03533257
+71,91,probable alzheimer's,condition,NCT03533257
+103,128,mild cognitive impairment,condition,NCT03533257
+252,254,ad,condition,NCT03533257
+300,304,moca,measurement,NCT03533257
+305,311,8 - 26,value,NCT03533257
+402,428,geriatric depression scale,measurement,NCT03533257
+429,431,<7,value,NCT03533257
+444,460,able to complete,value,NCT03533257
+498,614,"not pregnant, lactating or of child-bearing potential (women must be >2 years post-menopausal or surgically sterile)",condition,NCT03533257
+615,628,study partner,caregiver,NCT03533257
+634,660,at least two days per week,time,NCT03533257
+853,907,biomarker supportive of ad as the underlying pathology,value,NCT03533257
+950,961,amyloid pet,procedure,NCT03533257
+963,966,csf,measurement,NCT03533257
+982,989,fdg-pet,procedure,NCT03533257
+994,1003,vmri scan,procedure,NCT03533257
+1010,1034,cholinesterase inhibitor,drug,NCT03533257
+1042,1051,memantine,drug,NCT03533257
+1070,1082,for 3 months,time,NCT03533257
+33,36,age,demography,NCT03656042
+40,87,at lease 50 years old and no more than 85 years,value,NCT03656042
+58,61,old,demography,NCT03656042
+113,132,alzheimer's disease,condition,NCT03656042
+229,237,dementia,condition,NCT03656042
+409,410,1,value,NCT03656042
+419,436,ct/mri brain scan,procedure,NCT03656042
+422,425,mri,measurement,NCT03656042
+437,457,supporting evidences,value,NCT03656042
+472,509,mini-mental examination (mmse) scores,measurement,NCT03656042
+513,521,12 to 26,value,NCT03656042
+548,572,clinical dementia rating,measurement,NCT03656042
+574,577,cdr,measurement,NCT03656042
+588,611,1 (mild) or 2 moderate),value,NCT03656042
+626,644,modified hachinski,measurement,NCT03656042
+663,664,4,value,NCT03656042
+681,735,hamilton psychiatric rating scale for depression score,measurement,NCT03656042
+743,986,female subject with child-bearing potential agrees to take reliable contraceptive method during the participation of the study (females with no child-bearing potential have to be surgically sterilized or at least 2 years after post-menopausal),condition,NCT03656042
+947,963,at least 2 years,time,NCT03656042
+1092,1101,caregiver,caregiver,NCT03656042
+20,23,age,demography,NCT04063124
+24,41,65 years or above,value,NCT04063124
+56,58,no,value,NCT04063124
+65,67,ad,condition,NCT04063124
+69,73,moca,measurement,NCT04063124
+74,79,10-20,value,NCT04063124
+84,108,clinical dementia rating,measurement,NCT04063124
+93,101,dementia,condition,NCT04063124
+115,118,cdr,measurement,NCT04063124
+144,169,cholinesterase inhibitors,drug,NCT04063124
+174,195,at least three months,time,NCT04063124
+179,182,ast,measurement,NCT04063124
+196,217,body mass index (bmi),measurement,NCT04063124
+234,248,19 - 35 kg/ m2,value,NCT04063124
+255,261,normal,value,NCT04063124
+262,279,blood cell counts,measurement,NCT04063124
+323,327,wbcs,measurement,NCT04063124
+329,351,"4,500-10,500 cells/mcl",value,NCT04063124
+353,378,absolute neutrophil count,measurement,NCT04063124
+380,401,"1,800-8,700 cells/mcl",value,NCT04063124
+403,412,platelets,measurement,NCT04063124
+414,426,140-450 k/ul,value,NCT04063124
+428,438,hemoglobin,measurement,NCT04063124
+439,457,12.0-17.5 grams/dl,value,NCT04063124
+460,465,liver,measurement,NCT04063124
+470,484,renal function,measurement,NCT04063124
+490,500,10-40 iu/l,value,NCT04063124
+502,517,total bilirubin,measurement,NCT04063124
+518,531,0.1-1.4 mg/dl,value,NCT04063124
+534,545,cholesterol,measurement,NCT04063124
+547,557,<240 mg/dl,value,NCT04063124
+560,573,triglycerides,measurement,NCT04063124
+575,585,<300 mg/dl,value,NCT04063124
+609,614,hba1c,measurement,NCT04063124
+615,618,< 7,value,NCT04063124
+622,632,pt/ptt/inr,measurement,NCT04063124
+633,653,within normal limits,value,NCT04063124
+692,725,legally authorized representative,caregiver,NCT04063124
+777,790,study partner,caregiver,NCT04063124
+20,24,ages,demography,NCT04079803
+25,46,>= 50 and <= 85 years,value,NCT04079803
+157,165,dementia,condition,NCT04079803
+185,205,probable alzheimer's,condition,NCT04079803
+214,249,mini-mental state examination score,measurement,NCT04079803
+250,265,>= 16 and <= 26,value,NCT04079803
+282,304,"female, postmenopausal",condition,NCT04079803
+309,324,at least 1 year,time,NCT04079803
+333,461,"living at home, senior residential setting, or an institutional setting without the need for continuous (i.e. 24-h) nursing care",demography,NCT04079803
+588,597,memantine,drug,NCT04079803
+599,611,rivastigmine,drug,NCT04079803
+613,624,galantamine,drug,NCT04079803
+631,636,achei,drug,NCT04079803
+666,683,at least 3 months,time,NCT04079803
+698,707,donepezil,drug,NCT04079803
+718,745,lower than 23 mg once daily,value,NCT04079803
+740,745,daily,time,NCT04079803
+764,774,non-smoker,condition,NCT04079803
+779,795,at least 3 years,time,NCT04079803
+812,832,legal representative,caregiver,NCT04079803
+899,914,lumbar puncture,procedure,NCT04079803
+934,953,cerebrospinal fluid,measurement,NCT04079803
+981,1035,ratio of total tau/aβ42 in cerebrospinal fluid >= 0.28,value,NCT04079803
+1051,1060,caregiver,caregiver,NCT04079803
+41,45,ages,demography,NCT04187547
+49,58,50 and 85,value,NCT04187547
+102,103,1,value,NCT04187547
+114,128,86 to 90 years,value,NCT04187547
+292,300,dementia,condition,NCT04187547
+348,352,mmse,measurement,NCT04187547
+367,375,14 to 26,value,NCT04187547
+420,422,no,value,NCT04187547
+448,468,probable alzheimer's,condition,NCT04187547
+570,596,magnetic resonance imaging,procedure,NCT04187547
+643,667,diagnosis of probable ad,value,NCT04187547
+656,667,probable ad,condition,NCT04187547
+669,737,fluorodeoxyglucose positron emission tomography (fdg-pet) brain scan,procedure,NCT04187547
+748,770,pattern typical for ad,value,NCT04187547
+959,963,apoe,measurement,NCT04187547
+964,981,negative genotype,value,NCT04187547
+1013,1023,laboratory,measurement,NCT04187547
+1115,1140,cholinesterase inhibitors,drug,NCT04187547
+1149,1158,donepezil,drug,NCT04187547
+1160,1171,galantamine,drug,NCT04187547
+1176,1188,rivastigmine,drug,NCT04187547
+1197,1203,gv-971,drug,NCT04187547
+1212,1221,memantine,drug,NCT04187547
+1229,1331,"other agents which may impact cognition (e.g., souvenaid®, neuroaidtm, cerefolin®, gingko biloba, etc)",drug,NCT04187547
+1419,1431,for 3 months,time,NCT04187547
+1531,1536,daily,time,NCT04187547
+1672,1679,tacrine,drug,NCT04187547
+1687,1698,not allowed,time,NCT04187547
+1877,1948,do not have active suicidal thoughts (answers 'yes' to questions 4 or 5,value,NCT04187547
+1957,2005,columbia-suicide severity rating scale [c-ssrs]),measurement,NCT04187547
+2006,2021,within 6 months,time,NCT04187547
+2101,2137,no active history of suicide attempt,condition,NCT04187547
+2145,2161,previous 2 years,time,NCT04187547
+2165,2201,more than 1 lifetime suicide attempt,condition,NCT04187547
+2397,2406,caregiver,caregiver,NCT04187547
+24,60,female of non-childbearing potential,demography,NCT04191486
+70,74,ages,demography,NCT04191486
+75,89,50 to 80 years,value,NCT04191486
+102,115,mci due to ad,condition,NCT04191486
+119,126,mild ad,condition,NCT04191486
+184,188,mmse,measurement,NCT04191486
+189,197,24 to 30,value,NCT04191486
+210,213,csf,measurement,NCT04191486
+235,339,"consistent with the presence of aß and p-tau181 abnormality (≤1000 pg/ml for aß, ≥19 pg/ml for p-tau181)",value,NCT04191486
+363,418,"ache inhibitor (donepezil, galantamine or rivastigmine)",drug,NCT04191486
+419,440,at least for 3 months,time,NCT04191486
+483,498,ache inhibitors,drug,NCT04191486
+20,24,aged,demography,NCT04249869
+25,38,over 65 years,value,NCT04249869
+39,42,old,demography,NCT04249869
+43,63,regardless of gender,demography,NCT04249869
+89,98,caregiver,caregiver,NCT04249869
+316,358,mild to moderate alzheimer's type dementia,condition,NCT04249869
+360,364,mmse,measurement,NCT04249869
+379,388,14 and 26,value,NCT04249869
+425,438,over 3 months,time,NCT04249869
+450,480,acetylcholinesterase inhibitor,drug,NCT04249869
+482,506,nmda receptor antagonist,drug,NCT04249869
+512,526,antipsychotics,drug,NCT04249869
+528,543,antidepressants,drug,NCT04249869
+545,560,mood stabilizer,drug,NCT04249869
+566,583,anxiolytic agents,drug,NCT04249869
+113,116,age,demography,NCT04263519
+117,122,55-85,value,NCT04263519
+134,138,male,demography,NCT04263519
+163,188,mci or dementia due to ad,condition,NCT04263519
+201,209,positive,value,NCT04263519
+210,244,ad biomarker (csf or neuroimaging),procedure,NCT04263519
+224,227,csf,measurement,NCT04263519
+246,255,education,demography,NCT04263519
+326,342,able to complete,value,NCT04263519
+450,466,lumbar punctures,procedure,NCT04263519
+468,472,mris,procedure,NCT04263519
+512,525,study partner,caregiver,NCT04263519
+531,568,at least two days of contact per week,time,NCT04263519
+637,661,cholinesterase inhibitor,drug,NCT04263519
+669,678,memantine,drug,NCT04263519
+697,709,for 3 months,time,NCT04263519
+29,100,completion of participation in the anavex2-73-ad-004 double-blind study,condition,NCT04314934
+80,81,4,value,NCT04314934
+129,140,outpatients,demography,NCT04314934
+145,185,residents of an assisted-living facility,demography,NCT04314934
+223,236,study partner,caregiver,NCT04314934
+249,272,at least 10hrs per week,time,NCT04314934
+326,331,carer,caregiver,NCT04314934
+376,378,no,value,NCT04314934
+405,440,no suicidal ideation of type 4 or 5,value,NCT04314934
+448,495,columbia suicide severity rating scale (c-ssrs),measurement,NCT04314934
+508,516,3 months,time,NCT04314934
+644,661,suicidal behavior,condition,NCT04314934
+669,681,past 2 years,time,NCT04314934
+816,892,if of childbearing potential is not pregnant through urine pregnancy testing,condition,NCT04314934
+24,27,age,demography,NCT04491006
+28,42,55 to 85 years,value,NCT04491006
+43,71,mild-to-moderate ad dementia,condition,NCT04491006
+82,86,mmse,measurement,NCT04491006
+87,92,14-24,value,NCT04491006
+94,97,cdr,measurement,NCT04491006
+98,104,1 or 2,value,NCT04491006
+140,168,"dementia, due probably to ad",condition,NCT04491006
+279,303,support person/caregiver,caregiver,NCT04491006
+339,369,acetylcholinesterase inhibitor,drug,NCT04491006
+371,376,achei,drug,NCT04491006
+467,507,achei (except for donepezil at 23 mg po),drug,NCT04491006
+512,529,at least 3 months,time,NCT04491006
+512,536,at least 3 months before,value,NCT04491006
+597,623,discontinued 4 weeks prior,time,NCT04491006
+20,39,mild to moderate ad,condition,NCT04520412
+101,116,at least 1 year,time,NCT04520412
+110,111,1,value,NCT04520412
+118,122,mmse,measurement,NCT04520412
+138,147,11 and 24,value,NCT04520412
+173,182,brain mri,procedure,NCT04520412
+179,182,mri,measurement,NCT04520412
+188,222,show the highest possibility of ad,value,NCT04520412
+231,244,study partner,caregiver,NCT04520412
+245,254,caregiver,caregiver,NCT04520412
+20,23,age,demography,NCT04570085
+24,28,≥ 50,value,NCT04570085
+42,69,probable alzheimer dementia,condition,NCT04570085
+187,200,brain imaging,procedure,NCT04570085
+208,211,mri,measurement,NCT04570085
+208,211,mri,procedure,NCT04570085
+217,321,"blood test (including ionogram, kidney and liver function, calcemia, crp, tsh, b12 vitamins and folates)",measurement,NCT04570085
+348,352,mmse,measurement,NCT04570085
+359,362,≥16,value,NCT04570085
+378,387,informant,caregiver,NCT04570085
+392,401,caregiver,caregiver,NCT04570085
+403,426,living with the patient,time,NCT04570085
+427,432,iache,drug,NCT04570085
+440,449,memantine,drug,NCT04570085
+528,536,2 months,time,NCT04570085
+20,40,probable alzheimer's,condition,NCT04592341
+50,52,ad,condition,NCT04592341
+54,62,dementia,condition,NCT04592341
+66,78,prodromal ad,condition,NCT04592341
+107,120,study partner,caregiver,NCT04592341
+139,148,caregiver,caregiver,NCT04592341
+317,320,mri,measurement,NCT04592341
+317,320,mri,procedure,NCT04592341
+347,358,pet imaging,procedure,NCT04592341
+575,610,evidence of ad pathological process,value,NCT04592341
+628,639,amyloid pet,procedure,NCT04592341
+689,699,laboratory,measurement,NCT04592341
+761,797,mini-mental state examination (mmse),measurement,NCT04592341
+804,809,>/=22,value,NCT04592341
+814,838,clinical dementia rating,measurement,NCT04592341
+853,856,cdr,measurement,NCT04592341
+864,867,0.5,value,NCT04592341
+871,872,1,value,NCT04592341
+889,919,clinical dementia rating (cdr),measurement,NCT04592341
+980,1006,symptomatic ad medications,drug,NCT04592341
+1036,1053,at least 3 months,time,NCT04592341
+1410,1541,women of childbearing potential: agreement to remain abstinent (refrain from heterosexual intercourse) or use contraceptive methods,condition,NCT04592341
+20,32,both genders,demography,NCT04629495
+37,54,all ethnic groups,demography,NCT04629495
+55,59,ages,demography,NCT04629495
+60,74,55 to 89 years,value,NCT04629495
+88,97,mci or ad,condition,NCT04629495
+98,135,(mini mental status examination (mmse,measurement,NCT04629495
+138,143,18-30,value,NCT04629495
+145,169,clinical dementia rating,measurement,NCT04629495
+154,162,dementia,condition,NCT04629495
+177,180,cdr,measurement,NCT04629495
+184,187,0.5,value,NCT04629495
+193,254,california verbal learning test iii (cvlt-iii) delayed recall,measurement,NCT04629495
+255,287,≤16% based on age-adjusted norms,value,NCT04629495
+309,327,amyloid positivity,value,NCT04629495
+337,348,amyloid pet,procedure,NCT04629495
+363,369,normal,value,NCT04629495
+370,387,blood cell counts,measurement,NCT04629495
+438,443,liver,measurement,NCT04629495
+448,462,renal function,measurement,NCT04629495
+485,490,hba1c,measurement,NCT04629495
+491,497,< 6.5%,value,NCT04629495
+500,519,fasting lipid panel,measurement,NCT04629495
+524,607,prothrombin time/prothrombin time test/international normalized ration (pt/ptt/inr),measurement,NCT04629495
+608,628,within normal limits,value,NCT04629495
+631,664,legally authorized representative,caregiver,NCT04629495
+868,877,donepezil,drug,NCT04629495
+879,891,rivastigmine,drug,NCT04629495
+893,902,memantine,drug,NCT04629495
+904,915,galantamine,drug,NCT04629495
+921,942,at least three months,time,NCT04629495
+32,33,1,value,NCT04639050
+150,163,study partner,caregiver,NCT04639050
+452,478,magnetic resonance imaging,procedure,NCT04639050
+480,483,mri,measurement,NCT04639050
+480,483,mri,procedure,NCT04639050
+486,501,lumbar puncture,procedure,NCT04639050
+528,562,positron emission tomography [pet],procedure,NCT04639050
+657,659,ad,condition,NCT04639050
+824,861,probable mild to moderate ad dementia,condition,NCT04639050
+967,978,probable ad,condition,NCT04639050
+992,1004,prodromal ad,condition,NCT04639050
+1072,1097,mild cognitive impairment,condition,NCT04639050
+1119,1155,mini-mental state examination (mmse),measurement,NCT04639050
+1165,1173,18 to 28,value,NCT04639050
+1201,1202,4,value,NCT04639050
+1224,1248,clinical dementia rating,measurement,NCT04639050
+1263,1266,cdr,measurement,NCT04639050
+1274,1277,0.5,value,NCT04639050
+1318,1326,positive,value,NCT04639050
+1327,1338,amyloid pet,procedure,NCT04639050
+1354,1373,>50 centiloid units,value,NCT04639050
+1375,1391,within 12 months,time,NCT04639050
+1434,1460,symptomatic ad medications,drug,NCT04639050
+1808,1812,apoe,measurement,NCT04639050
+51,62,both gender,demography,NCT04780399
+193,204,probable ad,condition,NCT04780399
+210,221,body weight,measurement,NCT04780399
+233,240,45-90kg,value,NCT04780399
+242,246,aged,demography,NCT04780399
+247,266,≥ 65 and ≤ 85 years,value,NCT04780399
+267,270,old,demography,NCT04780399
+314,318,mmse,measurement,NCT04780399
+328,341,15 through 26,value,NCT04780399
+367,370,mri,measurement,NCT04780399
+367,370,mri,procedure,NCT04780399
+407,439,confirmed with a diagnosis of ad,value,NCT04780399
+441,475,medial temporal atrophy scale (mta,measurement,NCT04780399
+560,638,"≥1.5 (adjusted by age: 65-74 years ≥ 1.5 points, 75-84 years old ≥ 2.0 points)",value,NCT04780399
+646,658,pib-pet scan,procedure,NCT04780399
+662,665,csf,measurement,NCT04780399
+673,722,consistent with the presence of amyloid pathology,value,NCT04780399
+833,839,normal,value,NCT04780399
+908,917,caregiver,caregiver,NCT04780399
+20,36,males or females,demography,NCT04902703
+45,48,age,demography,NCT04902703
+49,64,60 and 80 years,value,NCT04902703
+114,131,partner/caregiver,caregiver,NCT04902703
+132,141,informant,caregiver,NCT04902703
+183,207,at least 12 hours a week,time,NCT04902703
+414,416,ad,condition,NCT04902703
+736,746,laboratory,measurement,NCT04902703
+767,778,probable ad,condition,NCT04902703
+779,787,dementia,condition,NCT04902703
+949,956,mild ad,condition,NCT04902703
+973,977,moca,measurement,NCT04902703
+987,992,10-22,value,NCT04902703
+1009,1017,positive,value,NCT04902703
+1068,1071,csf,measurement,NCT04902703
+1140,1145,achei,drug,NCT04902703
+1175,1192,at least 2 months,time,NCT04902703
+1200,1224,cholinesterase inhibitor,drug,NCT04902703
+1232,1241,memantine,drug,NCT04902703
+42,61,alzheimer's disease,condition,NCT05006781
+65,90,mild cognitive impairment,condition,NCT05006781
+91,95,mmse,measurement,NCT05006781
+104,109,10-26,value,NCT05006781
+110,113,cdr,measurement,NCT05006781
+114,122,1 or 0.5,value,NCT05006781
+20,69,gradual and progressive change in memory function,condition,NCT05063539
+98,108,informants,caregiver,NCT05063539
+113,123,≥ 6 months,time,NCT05063539
+124,128,mmse,measurement,NCT05063539
+138,146,22 to 30,value,NCT05063539
+171,174,cdr,measurement,NCT05063539
+191,194,0.5,value,NCT05063539
+239,243,≥0.5,value,NCT05063539
+250,306,18f flortaucipir positron emission tomography (pet) scan,procedure,NCT05063539
+342,355,study partner,caregiver,NCT05063539
+20,24,male,demography,NCT05104463
+44,48,≥ 50,value,NCT05104463
+67,70,age,demography,NCT05104463
+113,138,mild cognitive impairment,condition,NCT05104463
+147,155,dementia,condition,NCT05104463
+248,256,positive,value,NCT05104463
+304,305,1,value,NCT05104463
+339,358,alzheimer's disease,condition,NCT05104463
+360,362,ad,condition,NCT05104463
+385,413,anti-parkinsonian medication,drug,NCT05104463
+422,427,daily,time,NCT05104463
+439,455,at least 1 month,time,NCT05104463
+531,614,"single drug for ad (e.g., donepezil or other cholinesterase inhibitors or memantine",drug,NCT05104463
+684,701,at least 2 months,time,NCT05104463
+900,953,alternative causes of cognitive decline are ruled out,condition,NCT05104463
+1069,1088,spouse or caregiver,caregiver,NCT05104463
+1199,1278,greater than or equal to one standard deviation below age and educational norms,value,NCT05104463
+1286,1323,digit symbol substitution test (dsst),measurement,NCT05104463
+1344,1359,within 6 months,time,NCT05104463
+1380,1416,montreal cognitive assessment (moca),measurement,NCT05104463
+1423,1436,≥ 18 and ≤ 26,value,NCT05104463
+1527,1553,magnetic resonance imaging,procedure,NCT05104463
+1558,1561,mri,measurement,NCT05104463
+1558,1561,mri,procedure,NCT05104463
+2072,2506,"females of childbearing potential (i.e., not postmenopausal or surgically sterile) who have a male partner must have a negative serum pregnancy test result and must agree to one of the following from start of screening through 30 days after the last study medication administration: use a highly effective method of birth control; or monogamous relationship with a male partner of confirmed sterility; or practice complete abstinence.",condition,NCT05104463
+2515,2609,of non-childbearing potential may be enrolled if it is documented that they are postmenopausal,condition,NCT05104463
+2611,2622,body weight,measurement,NCT05104463
+2623,2648,greater or equal to 50 kg,value,NCT05104463
+2653,2674,body mass index (bmi),measurement,NCT05104463
+2683,2698,18 and 35 kg/m2,value,NCT05104463
+2750,2762,for 3 months,time,NCT05104463
+20,45,mild cognitive impairment,condition,NCT05282550
+165,189,clinical dementia rating,measurement,NCT05282550
+174,182,dementia,condition,NCT05282550
+191,194,cdr,measurement,NCT05282550
+199,202,0.5,value,NCT05282550
+271,301,pittsburgh sleep quality index,measurement,NCT05282550
+311,313,>5,value,NCT05282550
+375,393,memory performance,measurement,NCT05282550
+394,472,> 1.5 standard deviation (sd) below age-and education-matched control subjects,value,NCT05282550
+430,433,age,demography,NCT05282550
+438,447,education,demography,NCT05282550
+480,566,repeatable battery for the assessment of neuropsychological status (rbans) list recall,measurement,NCT05282550
+636,655,good general health,condition,NCT05282550
+661,663,no,value,NCT05282550
+723,749,magnetic resonance imaging,procedure,NCT05282550
+751,754,mri,measurement,NCT05282550
+751,754,mri,procedure,NCT05282550
+792,801,informant,caregiver,NCT05282550
+29,33,aged,demography,NCT05303701
+34,52,≥ 55 to ≤ 85 years,value,NCT05303701
+99,101,no,value,NCT05303701
+106,114,dementia,condition,NCT05303701
+158,178,probable alzheimer's,condition,NCT05303701
+212,214,ad,condition,NCT05303701
+243,255,k-mmse score,measurement,NCT05303701
+256,260,≤ 19,value,NCT05303701
+298,330,gds (global deterioration scale),measurement,NCT05303701
+331,343,grade 5 to 6,value,NCT05303701
+362,411,no other diseases to cause dementia other than ad,value,NCT05303701
+427,430,mri,measurement,NCT05303701
+427,430,mri,procedure,NCT05303701
+442,458,within 12 months,time,NCT05303701
+508,517,donepezil,drug,NCT05303701
+527,565,donepezil and memantine in combination,drug,NCT05303701
+605,618,over 3 months,time,NCT05303701
+668,719,subjects who can walk with or without assist device,condition,NCT05303701
+807,816,caregiver,caregiver,NCT05303701
+1064,1074,caregivers,caregiver,NCT05303701
+105,129,mini-mental (mmse) score,measurement,NCT05463731
+133,141,20 to 28,value,NCT05463731
+174,179,p-tau,measurement,NCT05463731
+187,236,consistent with the presence of amyloid pathology,value,NCT05463731
+245,256,amyloid pet,procedure,NCT05463731
+262,324,result consistent with the presence of brain amyloid pathology,value,NCT05463731
+342,355,study partner,caregiver,NCT05463731
+730,747,males and females,demography,NCT05463731
+781,841,women not of childbearing potential (wnocbp) may participate,condition,NCT05463731
+29,33,aged,demography,NCT05468073
+34,38,> 18,value,NCT05468073
+39,70,age of disease onset < 70 years,time,NCT05468073
+108,110,ad,condition,NCT05468073
+222,225,csf,measurement,NCT05468073
+237,253,suggestive of ad,value,NCT05468073
+255,264,brain mri,procedure,NCT05468073
+261,264,mri,measurement,NCT05468073
+265,293,congruent with the diagnosis,value,NCT05468073
+340,343,cdr,measurement,NCT05468073
+345,369,clinical dementia rating,measurement,NCT05468073
+354,362,dementia,condition,NCT05468073
+379,382,0.5,value,NCT05468073
+408,422,antidepressant,drug,NCT05468073
+426,457,acetylcholinesterase inhibitors,drug,NCT05468073
+529,546,at least 3 months,time,NCT05468073
+529,553,at least 3 months before,value,NCT05468073
+572,581,caregiver,caregiver,NCT05468073
+668,677,informant,caregiver,NCT05468073
+22,24,ad,condition,NCT05476783
+130,293,completed lead-in protocol tb006ad2102 (participants from both study drug and placebo groups) or are eligible for the lead-in study but were not enrolled (de novo),condition,NCT05476783
+624,775,contraceptive use by men should be consistent with local regulations regarding the methods of contraception for those participating in clinical studies,condition,NCT05476783
+777,822,females must be of non-childbearing potential,condition,NCT05476783
+779,783,male,demography,NCT05476783
+840,849,caregiver,caregiver,NCT05476783
+1443,1461,male and/or female,demography,NCT05476783
+1462,1472,> 50 years,value,NCT05476783
+1476,1479,age,demography,NCT05476783
+1525,1536,body weight,measurement,NCT05476783
+1540,1544,≥ 50,value,NCT05476783
+1564,1585,body mass index (bmi),measurement,NCT05476783
+1594,1639,18 and 35 kilograms per square meter (kg/m^2),value,NCT05476783
+1652,1656,mmse,measurement,NCT05476783
+1666,1676,24 or less,value,NCT05476783
+1686,1696,ambulatory,condition,NCT05476783
+1754,1765,probable ad,condition,NCT05476783
+1856,1875,alzheimer's disease,condition,NCT05476783
+2070,2078,dementia,condition,NCT05476783
+20,24,male,demography,NCT05531526
+48,52,aged,demography,NCT05531526
+53,67,55 to 80 years,value,NCT05531526
+124,149,mild cognitive impairment,condition,NCT05531526
+158,166,dementia,condition,NCT05531526
+183,185,ad,condition,NCT05531526
+209,210,4,value,NCT05531526
+330,344,within 3 years,time,NCT05531526
+376,389,study partner,caregiver,NCT05531526
+415,419,mmse,measurement,NCT05531526
+426,453,greater than or equal to 20,value,NCT05531526
+474,477,cdr,measurement,NCT05531526
+495,498,0.5,value,NCT05531526
+502,503,1,value,NCT05531526
+524,535,rbans score,measurement,NCT05531526
+536,606,less than or equal to 85 based on the delayed memory index (dmi) score,value,NCT05531526
+635,661,magnetic resonance imaging,procedure,NCT05531526
+663,666,mri,measurement,NCT05531526
+663,666,mri,procedure,NCT05531526
+778,888,findings consistent with the diagnosis of ad and without any other clinically significant comorbid pathologies,value,NCT05531526
+889,921,confirmed amyloid beta pathology,value,NCT05531526
+925,944,cerebrospinal fluid,measurement,NCT05531526
+946,949,csf,measurement,NCT05531526
+21,83,completed rethink-alz (pti-125-07) or refocus-alz (pti-125-06),condition,NCT05575076
+123,158,consistent with alzheimer's disease,value,NCT05575076
+139,158,alzheimer's disease,condition,NCT05575076
+178,191,study partner,caregiver,NCT05575076
+61,80,alzheimer's disease,condition,NCT05578443
+24,26,no,value,NCT05686044
+33,52,alzheimer's disease,condition,NCT05686044
+94,105,probable ad,condition,NCT05686044
+106,110,male,demography,NCT05686044
+121,125,aged,demography,NCT05686044
+126,133,55 - 85,value,NCT05686044
+141,145,mmse,measurement,NCT05686044
+146,151,14-24,value,NCT05686044
+160,173,study partner,caregiver,NCT05686044
+288,314,at least 10 hours per week,time,NCT05686044
+388,684,"female participants of childbearing potential* must have a negative urine pregnancy test at screening, must be non-lactating and must agree to use a highly effective method of contraception (i.e., a method resulting in a failure rate of less than 1% per year when used consistently and correctly)",condition,NCT05686044
+710,717,4 weeks,time,NCT05686044
+1756,1902,*non-childbearing potential includes surgically sterilized or postmenopausal with no menstrual bleeding for at least one year prior to study start,condition,NCT05686044
+1864,1876,at least one,value,NCT05686044
+1904,1989,male participants must be sterile or sexually inactive or agree not to father a child,condition,NCT05686044
+2771,2804,legally authorized representative,caregiver,NCT05686044
+2990,3160,no evidence of current suicidal ideation or previous suicide attempt in the past 2 months as evaluated in the columbia suicide severity rating scale nor suicidal behavior,condition,NCT05686044
+3071,3079,2 months,time,NCT05686044
+3168,3181,past 6 months,time,NCT05686044
+3245,3258,least 4 weeks,time,NCT05686044
+3279,3304,cholinesterase inhibitors,drug,NCT05686044
+3312,3321,memantine,drug,NCT05686044
+3333,3359,anticonvulsant medications,drug,NCT05686044
+3431,3467,mood-stabilizing psychotropic agents,drug,NCT05686044
+3622,3641,good general health,condition,NCT05686044
+20,23,age,demography,NCT05728736
+24,35,60-80 years,value,NCT05728736
+36,43,any sex,demography,NCT05728736
+44,62,any race/ethnicity,demography,NCT05728736
+63,106,mini-mental status examination score (mmse),measurement,NCT05728736
+107,111,≥ 27,value,NCT05728736
+112,120,positive,value,NCT05728736
+121,145,plasma amyloid-beta test,measurement,NCT05728736
+171,201,pittsburgh sleep quality index,measurement,NCT05728736
+202,204,>5,value,NCT05728736
+20,69,gradual and progressive change in memory function,condition,NCT05738486
+101,110,informant,caregiver,NCT05738486
+128,164,mini mental state examination (mmse),measurement,NCT05738486
+174,182,20 to 28,value,NCT05738486
+217,228,amyloid pet,procedure,NCT05738486
+260,309,consistent with the presence of amyloid pathology,value,NCT05738486
+20,83,completion of the planned treatment period in the al002-2 study,condition,NCT05744401
+147,160,study partner,caregiver,NCT05744401
+238,262,at least 10 hours a week,time,NCT05744401
+33,53,probable alzheimer's,condition,NCT05771428
+143,144,1,value,NCT05771428
+157,193,mini-mental state examination (mmse),measurement,NCT05771428
+203,211,20 to 26,value,NCT05771428
+215,239,clinical dementia rating,measurement,NCT05771428
+224,232,dementia,condition,NCT05771428
+241,244,cdr,measurement,NCT05771428
+262,265,0.5,value,NCT05771428
+37,52,55 and 85 years,value,NCT05986721
+53,56,old,demography,NCT05986721
+72,91,good general health,condition,NCT05986721
+173,195,eighth-grade education,demography,NCT05986721
+182,184,ad,condition,NCT05986721
+199,257,good work history sufficient to exclude mental retardation,condition,NCT05986721
+455,468,study partner,caregiver,NCT05986721
+762,775,mci due to ad,condition,NCT05986721
+906,910,mmse,measurement,NCT05986721
+926,935,24 and 30,value,NCT05986721
+1128,1152,lower memory performance,value,NCT05986721
+1134,1152,memory performance,measurement,NCT05986721
+1166,1200,delayed recall portion of the islt,measurement,NCT05986721
+1204,1228,clinical dementia rating,measurement,NCT05986721
+1213,1221,dementia,condition,NCT05986721
+1230,1233,cdr,measurement,NCT05986721
+1244,1247,0.5,value,NCT05986721
+1275,1280,≥ 0.5,value,NCT05986721
+1294,1330,preserved activities of daily living,condition,NCT05986721
+1318,1323,daily,time,NCT05986721
+1350,1352,no,value,NCT05986721
+1416,1469,alternative causes of cognitive decline are ruled out,condition,NCT05986721
+1484,1505,blood-based biomarker,measurement,NCT05986721
+1522,1540,amyloid positivity,value,NCT05986721
+1549,1574,apolipoprotein e genotype,measurement,NCT05986721
+1585,1619,not include one or more e4 alleles,value,NCT05986721
+1686,1711,cholinesterase inhibitors,drug,NCT05986721
+1716,1725,memantine,drug,NCT05986721
+1756,1766,≥ 3 months,time,NCT05986721
+1838,1866,estrogen replacement therapy,drug,NCT05986721
+1868,1881,ginkgo biloba,drug,NCT05986721
+1887,1896,vitamin e,drug,NCT05986721
+1926,1935,≥ 4 weeks,time,NCT05986721
+2036,2051,antidepressants,drug,NCT05986721
+2056,2070,antipsychotics,drug,NCT05986721
+2214,2217,mri,measurement,NCT05986721
+2214,2217,mri,procedure,NCT05986721
+2238,2269,no contraindications to the mri,condition,NCT05986721
+2433,2437,apoe,measurement,NCT05986721
