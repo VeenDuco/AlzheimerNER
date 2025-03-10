@@ -118,8 +118,17 @@ def extract_entities(text, model, filename):
         })
     return entities
 
-# Folder containing JSON files
-json_folder = r"C:/Users/syaziyah.psh/Documents/Alzheimer Project Syaziyah/FILES 267/Finalized Files_267/UPDATED/inclusion files"
+
+### Folder containing JSON files
+# Get the script's directory
+BASE_DIR = Path(__file__).resolve().parent
+# Define the JSON folder path
+json_folder = BASE_DIR / "Inclusion_Raw_File"
+# Debugging: Check if the folder exists
+if not json_folder.exists():
+    print(f"Error: Folder not found -> {json_folder}")
+else:
+    print(f"Folder found: {json_folder}, contains: {list(json_folder.iterdir())}")
 extracted_data = []
 
 # Process each JSON file
