@@ -14,21 +14,25 @@ from spacy.matcher import PhraseMatcher
 import json
 from spacy import displacy
 from pathlib import Path
+import os
 
 # Load the spaCy model
 nlp = spacy.load("en_core_web_sm")
 
-# Function to load entities from CSV files into a dictionary
-def load_entities_from_csv(file_paths, categories):
+# Function to load entities from TXT files into a dictionary
+def load_entities_from_txt(txt_folder_path, categories):
     entities = {}
-    for file_path, category in zip(file_paths, categories):
+    for category in categories:
         try:
-            df = pd.read_csv(file_path)
-            entities[category] = df['entity'].dropna().tolist()  # Assuming column 'entity' exists
+            txt_file_path = os.path.join(txt_folder_path, f"{category}.txt")
+            with open(txt_file_path, "r", encoding="utf-8") as file:
+                lines = file.readlines()[1:]  # Skip the header line
+                entities[category] = [line.strip() for line in lines if line.strip()]
         except Exception as e:
-            print(f"Error loading {file_path}: {e}")
+            print(f"Error loading {category}.txt: {e}")
             entities[category] = []
     return entities
+
 
 # Function to clean text using regular expressions
 def clean_text(text):
@@ -124,8 +128,8 @@ semantic_categories = ["caregiver", "condition", "demography", "drug", "measurem
 print(f"Loading files from: {txt_folder_path}")
 semantic_categories = ["caregiver", "condition", "demography", "drug", "measurement", "procedure", "time", "value"]
 
-# Load entities
-entities = load_entities_from_csv(csv_files, semantic_categories)
+# Load entities from TXT files
+entities = load_entities_from_txt(txt_folder_path, semantic_categories)
 
 ###### Load JSON content
 # Define the base directory (script's parent directory)
