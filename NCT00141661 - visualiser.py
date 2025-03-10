@@ -13,6 +13,7 @@ import spacy
 from spacy.matcher import PhraseMatcher
 import json
 from spacy import displacy
+from pathlib import Path
 
 # Load the spaCy model
 nlp = spacy.load("en_core_web_sm")
@@ -114,24 +115,34 @@ def add_custom_entities(doc, matched_entities, cleaned_input):
     return doc
 
 # Define file paths and categories
-csv_files = [
-    "C:/Users/syaziyah.psh/Documents/Alzheimer Project Syaziyah/Inclusion criteria - each semantic/caregiver.csv",
-    "C:/Users/syaziyah.psh/Documents/Alzheimer Project Syaziyah/Inclusion criteria - each semantic/condition.csv",
-    "C:/Users/syaziyah.psh/Documents/Alzheimer Project Syaziyah/Inclusion criteria - each semantic/demography.csv",
-    "C:/Users/syaziyah.psh/Documents/Alzheimer Project Syaziyah/Inclusion criteria - each semantic/drug.csv",
-    "C:/Users/syaziyah.psh/Documents/Alzheimer Project Syaziyah/Inclusion criteria - each semantic/measurement.csv",
-    "C:/Users/syaziyah.psh/Documents/Alzheimer Project Syaziyah/Inclusion criteria - each semantic/procedure.csv",
-    "C:/Users/syaziyah.psh/Documents/Alzheimer Project Syaziyah/Inclusion criteria - each semantic/time.csv",
-    "C:/Users/syaziyah.psh/Documents/Alzheimer Project Syaziyah/Inclusion criteria - each semantic/value.csv"
-]
-semantic_categories = ["caregiver", "condition", "demography", "drug",
-                       "measurement", "procedure", "time", "value"]
+# Get the current script's directory (where "Alzheimer ML NER Project.py" is located)
+BASE_DIR = Path(__file__).resolve().parent
+# Define the folder path relative to the GitHub repository structure
+txt_folder_path = BASE_DIR / "Semantic_Entity_Dictionary"
+# Define the semantic categories
+semantic_categories = ["caregiver", "condition", "demography", "drug", "measurement", "procedure", "time", "value"]
+print(f"Loading files from: {txt_folder_path}")
+semantic_categories = ["caregiver", "condition", "demography", "drug", "measurement", "procedure", "time", "value"]
 
 # Load entities
 entities = load_entities_from_csv(csv_files, semantic_categories)
 
-# Load JSON content
-json_file = r"C:/Users/syaziyah.psh/Documents/Alzheimer Project Syaziyah/FILES 267/Finalized Files_267/UPDATED/Finalized Files_267/NCT00141661.json"
+###### Load JSON content
+# Define the base directory (script's parent directory)
+BASE_DIR = Path(__file__).resolve().parent
+# Define the JSON folder path
+json_folder = BASE_DIR / "Inclusion_Raw_File"
+# Define the specific JSON file name
+json_file = json_folder / "NCT00141661.json"
+# Debugging: Check if the folder exists
+if not json_folder.exists():
+    print(f"Error: Folder not found -> {json_folder}")
+elif not json_file.exists():
+    print(f"Error: JSON file not found -> {json_file}")
+else:
+    print(f"Folder found: {json_folder}")
+    print(f"JSON file found: {json_file}")
+
 try:
     with open(json_file, "r", encoding="utf-8") as file:
         data = json.load(file)
