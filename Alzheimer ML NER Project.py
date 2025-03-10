@@ -18,7 +18,7 @@ import re
 import spacy
 from spacy.matcher import PhraseMatcher
 from tqdm import tqdm
-from pathlib import path
+from pathlib import Path
 
 # Load the spaCy model
 nlp = spacy.load("en_core_web_sm")
@@ -119,7 +119,7 @@ def add_custom_entities(doc, matched_entities, cleaned_input, file_name):
 # Get the current script's directory (where "Alzheimer ML NER Project.py" is located)
 BASE_DIR = Path(__file__).resolve().parent
 # Define the folder path relative to the GitHub repository structure
-txt_folder_path = BASE_DIR / "Inclusion_Criteria_Sematic"  
+txt_folder_path = BASE_DIR / "Semantic_Entity_Dictionary"
 # Define the semantic categories
 semantic_categories = ["caregiver", "condition", "demography", "drug", "measurement", "procedure", "time", "value"]
 print(f"Loading files from: {txt_folder_path}")
@@ -129,12 +129,15 @@ semantic_categories = ["caregiver", "condition", "demography", "drug", "measurem
 entities = load_entities_from_txt(txt_folder_path, semantic_categories)
 
 ### Folder containing JSON files
-# Get the current script's directory (where "Alzheimer ML NER Project.py" is located)
+# Get the script's directory
 BASE_DIR = Path(__file__).resolve().parent
-# Define the JSON folder path relative to the GitHub repository
+# Define the JSON folder path
 json_folder = BASE_DIR / "Inclusion_Raw_File"
-print(f"Loading JSON files from: {json_folder}")
-
+# Debugging: Check if the folder exists
+if not json_folder.exists():
+    print(f"Error: Folder not found -> {json_folder}")
+else:
+    print(f"Folder found: {json_folder}, contains: {list(json_folder.iterdir())}")
 extracted_data = []
 
 # Process each JSON file
