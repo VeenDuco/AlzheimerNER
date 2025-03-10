@@ -5,9 +5,10 @@
 #### extract the right format of input  ✓
 #### extract the right semantic_entity  ✓
 #### construct the right format of dataframe from start, end, entity, semantic ✓
+#### date error has been resolve
 #### ----- PROBLEM ----
 # cannot proceed for building model. stuck how to build, train and testing. need assistant to complete the task ✗
-# the data extracted in the csv file show some error where it become "date" format. has been troubleshoot a lot
+
 
 
 # import packages
@@ -19,6 +20,11 @@ import spacy
 from spacy.matcher import PhraseMatcher
 from tqdm import tqdm
 from pathlib import Path
+
+import openpyxl
+print(openpyxl.__version__)
+
+
 
 # Load the spaCy model
 nlp = spacy.load("en_core_web_sm")
@@ -173,6 +179,10 @@ df = pd.DataFrame(extracted_data)
 df = df.sort_values(by=["File Name", "Start"]).reset_index(drop=True)
 
 # Save the sorted data to a CSV file
-output_file = "extracted_entities.csv"
-df.to_csv(output_file, index=False)
+# Get the directory of the current script
+BASE_DIR = Path(__file__).resolve().parent
+# Define the output file path
+output_file = BASE_DIR / "extracted_entities.xlsx"
+# Save the sorted data to an Excel file
+df.to_excel(output_file, index=False, engine="openpyxl")
 print(f"Extraction completed. Sorted unique results saved to {output_file}")
