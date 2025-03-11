@@ -2,25 +2,20 @@ entity
 brain ct or mri scan
 neurological exam without focal changes
 brain image(computerized axial tomographic scan -cat scan or magnetic resonance imaging - mri)
-brain ct or mri scan
 neurological examination
 ecg
 brain mri
-brain ct or mri scan
 mri scan of the brain
 brain imaging
 brain ct or mri
-brain imaging
 magnetic resonance imaging [mri] or computed tomography [ct]
 ct or mri scan
 neurologic examination
 physical examination
 12-lead ecg
-brain mri
 neuroimaging (pet and mri
 internist's physical exam
 neurological exam
-physical examination
 magnetic resonance imaging (mri) scan
 18f-florbetapir scan
 magnetic resonance imaging (mri) or computed tomography (ct) scan
@@ -28,7 +23,6 @@ positron emission tomography (pet)
 amyloid pet scan
 neuroimaging (computerized tomography (ct) or magnetic resonance imaging (mri))
 amyloid positron emission tomography (pet) scan
-brain mri
 amyloid scan (pib-pet)
 neuroimaging (mri)
 ct, mr, spect or pet/ct
@@ -47,17 +41,11 @@ brain mri scan
 brain imaging (ct or mri)
 mri
 pet imaging
-amyloid pet
 amyloid pet imaging
 magnetic resonance imaging [mri]
 lumbar puncture
 positron emission tomography [pet]
-amyloid pet scan
 mri scan
 pib-pet scan
 18f flortaucipir positron emission tomography (pet) scan
-magnetic resonance imaging (mri) scan
-amyloid pet scan
-brain mri
 magnetic resonance imaging (mri) or computer tomography (ct) scan
-amyloid pet scan

@@ -137,7 +137,7 @@ BASE_DIR = Path(__file__).resolve().parent
 # Define the JSON folder path
 json_folder = BASE_DIR / "Inclusion_Criteria_Json_File"
 # Define the specific JSON file name
-json_file = json_folder / "NCT00141661.json"
+json_file = json_folder / "NCT00384423.json"
 # Debugging: Check if the folder exists
 if not json_folder.exists():
     print(f"Error: Folder not found -> {json_folder}")

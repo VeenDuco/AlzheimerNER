@@ -100,7 +100,7 @@ for json_file in json_folder.glob("*.json"):
 # Convert to DataFrame
 if extracted_data:
     df = pd.DataFrame(extracted_data).sort_values(by=["filename", "start"]).reset_index(drop=True)
-    output_file = BASE_DIR / "output_training_model.xlsx"
+    output_file = BASE_DIR / "output_training_model_manually.xlsx"
     df.to_excel(output_file, index=False, engine="openpyxl")
     print(f"Extraction completed. Results saved to {output_file}")
 else:

@@ -5,57 +5,34 @@ mini mental status score
 mini mental state examination (mmse)
 mmse score
 new york university paragraph recall test
-new york university paragraph recall test
 mmse
 mini mental state examination (mmse) score
 mini-mental state examination (mmse)
-mmse score
 hachinski ischemia score
 qtc (either qtc b (bazett's correction) or qtc f (fridericia's correction))
 subjects with bundle branch block (for whom either qtc b or qtc f
 mini-mental state examination (mmse) score
-mmse score
 mini mental status (mms)
 clinical dementia rating (cdr)
-mmse score
 laboratory
-mmse score
-mmse score
 smmse
-mmse
-mmse
-mmse
 geriatric depression scale (gds) - score
 laboratory values
-mmse score
 hachinski ischaemic score
 mse score
-mmse score
 cdr(clinical dementia rating) score
 gds(global deterioration scale)
 mri
-mmse score
 cdr
 mini-mental state examination score
-mini-mental state examination score
-mini-mental state examination (mmse)
-mini-mental state examination (mmse) score
-hachinski ischemia score
-clinical dementia rating (cdr)
 mini-mental state examination (mmse) scores
 modified hachinski ischemia score (his)
-mini mental state examination (mmse)
-mmse
 hachinski ischemic score
 hamilton depression scale
 vital signs
 laboratory profile
-mini-mental state examination (mmse) score
-mini mental state examination (mmse) score
 clinical dementia rating
 modified hachinski score
-mini-mental state examination (mmse) score
-clinical dementia rating
 genetic testing
 mini-mental stage examination (mmse)
 serum thyroid stimulating hormone (tsh)
@@ -63,53 +40,38 @@ b12 levels
 standardised mini-mental state examination (smmse) score
 resting office based bp measurements
 abpm measurement
-mmse
 laboratory tests
-mini-mental state examination (mmse)
 clinical laboratory tests
-mmse score
 geriatric depression scale
 modified hachinski
-mini-mental state examination score
-mini-mental state examination (mmse) score
 modified hachinski ischemic scale (mhis) score
-mmse
 mini mental state exam (mmse-2) score
 mean resting systolic blood pressure
 clinical dementia rating (cdr)-global score
-mmse score
 body weight
 bmi
-mini mental state examination (mmse) score
 csf
 hachinski ischemia scale score
 logical memory subscale (delayed paragraph recall, paragraph a only) from the wechsler memory scale-revised
 montreal cognitive assessment (moca)
 clinical dementia rating scale /memory sum box score
 cerebrospinal fluid (csf)
-mmse
 geriatric depression score (gds)
 modified hachinski ischemia score
 cerebrospinal fluid
 anti-hsv (herpes simplex virus) immunoglobulin g (igg) in plasma
 allele 4 of gene apolipoprotein
 clinical dementia rating scale (cdr) global score
-mini-mental state examination (mmse) score
 cdr memory box score
 modified hachinski ischemia scale score
-mini-mental state examination score
 clinical dementia rating-global scale score
-mmse score
-mmse score
 modified hachinski ischemia scale (mhis) score
 moca
-geriatric depression scale
 csf ad biomarkers
 mini-mental examination (mmse) scores
 clinical dementia rating (cdr) score
 modified hachinski ischemic score
 hamilton psychiatric rating scale for depression score
-moca
 clinical dementia rating scale/cdr
 body mass index (bmi)
 blood cell counts
@@ -123,48 +85,26 @@ cholesterol
 triglycerides
 hba1c
 pt/ptt/inr
-mini-mental state examination score
-cerebrospinal fluid
-mmse score
 apoe
 columbia-suicide severity rating scale [c-ssrs])
-mmse
-csf
-mmse score
 columbia suicide severity rating scale (c-ssrs)
-mmse
-cdr
 mmse scores
 blood test (including ionogram, kidney and liver function, calcemia, crp, tsh, b12 vitamins and folates)
-mmse score
-mini-mental state examination (mmse) score
 clinical dementia rating global score (cdr-gs)
 (mini mental status examination (mmse
 clinical dementia rating scale (cdr)
 california verbal learning test iii (cvlt-iii) delayed recall
-blood cell counts
 liver
 renal function
-hba1c
 fasting lipid panel
 prothrombin time/prothrombin time test/international normalized ration (pt/ptt/inr)
-mini-mental state examination (mmse) score
 clinical dementia rating-global score (cdr-gs)
-body weight
-mmse score
 medial temporal atrophy scale (mta
-csf
 moca score
 csf assay
-mmse
-cdr
-mmse score
 cdr global score
 digit symbol substitution test (dsst)
 montreal cognitive assessment (moca) score
-body weight
-body mass index (bmi)
-clinical dementia rating (cdr)
 pittsburgh sleep quality index score
 memory performance
 repeatable battery for the assessment of neuropsychological status (rbans) list recall
@@ -175,22 +115,11 @@ mini-mental (mmse) score
 p-tau
 csf biomarkers
 cdr (clinical dementia rating scale)
-body weight
-body mass index (bmi)
-mmse score
-mmse score
 cdr global rating
 rbans score
-cerebrospinal fluid (csf)
-mmse
-mini-mental status examination score (mmse)
 plasma amyloid-beta test
 pittsburgh sleep quality index
-mini mental state examination (mmse) score
-mini-mental state examination (mmse) score
 clinical dementia rating (cdr) global score
-mmse scores
 delayed recall portion of the islt
-clinical dementia rating (cdr) score
 blood-based biomarker
 apolipoprotein e genotype
