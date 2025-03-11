@@ -135,7 +135,7 @@ entities = load_entities_from_txt(txt_folder_path, semantic_categories)
 # Define the base directory (script's parent directory)
 BASE_DIR = Path(__file__).resolve().parent
 # Define the JSON folder path
-json_folder = BASE_DIR / "Inclusion_Raw_File"
+json_folder = BASE_DIR / "Inclusion_Criteria_Json_File"
 # Define the specific JSON file name
 json_file = json_folder / "NCT00141661.json"
 # Debugging: Check if the folder exists
