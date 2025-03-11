@@ -138,7 +138,7 @@ entities = load_entities_from_txt(txt_folder_path, semantic_categories)
 # Get the script's directory
 BASE_DIR = Path(__file__).resolve().parent
 # Define the JSON folder path
-json_folder = BASE_DIR / "Inclusion_Raw_File"
+json_folder = BASE_DIR / "Inclusion_Criteria_Json_File"
 # Debugging: Check if the folder exists
 if not json_folder.exists():
     print(f"Error: Folder not found -> {json_folder}")
