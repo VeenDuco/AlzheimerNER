@@ -35,6 +35,8 @@ def clean_text(text):
     text = re.sub(r'~exclusion"\r\n', '', text)  # Remove unwanted parts
     text = re.sub(r'~', ' ', text)
     text = re.sub(r'\u003e', '>', text)
+
+
     text = re.sub(r'\\', '', text)  # Remove backslash symbol
     text = re.sub(r'\s+', ' ', text).strip()  # Remove extra spaces
     text = re.sub(r'^\"|\"$', '', text)  # Remove leading and trailing quotation marks
@@ -182,7 +184,7 @@ df = df.sort_values(by=["File Name", "Start"]).reset_index(drop=True)
 # Get the directory of the current script
 BASE_DIR = Path(__file__).resolve().parent
 # Define the output file path
-output_file = BASE_DIR / "extracted_entities.xlsx"
+output_file = BASE_DIR / "output_extracted_entities.xlsx"
 # Save the sorted data to an Excel file
 df.to_excel(output_file, index=False, engine="openpyxl")
 print(f"Extraction completed. Sorted unique results saved to {output_file}")
