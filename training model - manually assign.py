@@ -78,7 +78,7 @@ def extract_entities(text, model, filename):
 
 # Define JSON input directory
 BASE_DIR = Path(__file__).resolve().parent
-json_folder = BASE_DIR / "Inclusion_Raw_File"
+json_folder = BASE_DIR / "Inclusion_Criteria_Json_File"
 
 if not json_folder.exists():
     print(f"Error: Folder not found -> {json_folder}")
