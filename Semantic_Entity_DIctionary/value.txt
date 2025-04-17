@@ -10,14 +10,14 @@ delayed recall score less than or equal to 10
 7-28
 16-26
 >/= 50 to </= 85
-ranging from 11 to 24, inclusive
+11 to 24
 one or more
-10 to 26 inclusive
+10 to 26
 ≤ 4
 ≥50 and ≤90 years
 no evidence of any other potential cause of dementia other than alzheimer's disease
-<450msec
-<480msec
+450msec
+480msec
 over 55 years
 at least 60 years
 10 mg
@@ -33,10 +33,9 @@ inferior or equal to 1
 10mg qd
 without focal deficits (excluding changes attributable to peripheral nervous system disease, trauma or congenital birth deficits)
 no clinically significant
-no
 consistent with the diagnosis of ad
 16 to 24
-14-26 inclusive
+14-26
 50 or greater
 14-26
 60-100
@@ -64,7 +63,7 @@ higher than 24
 consistent with alzheimer's disease
 12-21
 ≥ 60 years
-between 10 and 20 inclusively
+10 and 20
 18-26
 > 65 and <85 years
 compatible with the diagnosis of probable alzheimer's disease
@@ -160,7 +159,6 @@ hetero or homozygote
 0.5 or 1 for mild ad
 22 to 30
 ≥0.5
-1
 0.5 to 1
 amyloid postivie
 bapl score 2 or 3
@@ -172,7 +170,6 @@ at lease 50 years old and no more than 85 years
 supporting evidences
 12 to 26
 1 (mild) or 2 moderate)
-4
 65 years or above
 10-20
 19 - 35 kg/ m2
@@ -183,8 +180,8 @@ normal
 12.0-17.5 grams/dl
 10-40 iu/l
 0.1-1.4 mg/dl
-<240 mg/dl
-<300 mg/dl
+240 mg/dl
+300 mg/dl
 < 7%
 within normal limits
 >= 50 and <= 85 years
@@ -208,7 +205,6 @@ no suicidal ideation of type 4 or 5
 14-24
 11 and 24
 show the highest possibility of ad
-≥ 50
 ≥16
 evidence of ad pathological process
 >/=22

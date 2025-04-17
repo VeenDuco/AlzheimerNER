@@ -1,7 +1,7 @@
 entity
 cholinesterase inhibitor
 memantine
-alzheimer's drug
+drug
 donepezil
 galantamine
 rivastigmine
@@ -17,7 +17,7 @@ fluoxetine
 paroxetine
 over-the-counter antioxidants (e.g. vitamin e, ginkgo biloba)
 lipid lowering medication
-do not be taking other prescribed medication for alzheimer disease
+do not be taking other prescribed medication
 galantamin
 donepezil, rivastigmine or galantamine
 acetylcholinesterase inhibitor (e.g. donepezil, rivastigmine, galantamine)
